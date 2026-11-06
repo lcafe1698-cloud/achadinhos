@@ -1,6 +1,6 @@
 # Achadinhos - Desenvolvido por Luiz Cafe
 """Página do 'link na bio' (GitHub Pages, pasta docs)."""
-import html
+import html, os
 
 def gerar(postados, canal, saida="docs/index.html"):
     e = html.escape
@@ -24,4 +24,5 @@ border-radius:8px;font-weight:700;font-size:13px}}footer{{text-align:center;font
 </head><body><header><h1>Achadinhos da Shopee por Luiz</h1><p>Procure pelo número da oferta que você viu no post.</p>
 <a class="tg" href="{e(canal)}">Ofertas todo dia no Telegram</a></header><main>{cards or "<p>Em breve as primeiras ofertas.</p>"}</main>
 <footer>Links de afiliado: posso ganhar uma comissão sem custo extra para você.</footer></body></html>"""
+    os.makedirs(os.path.dirname(saida) or ".", exist_ok=True)
     with open(saida, "w", encoding="utf-8") as f: f.write(doc)
