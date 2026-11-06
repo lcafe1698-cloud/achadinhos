@@ -1,15 +1,15 @@
 # Achadinhos - Desenvolvido por Luiz Cafe
 """Roda a cada 15 min no GitHub Actions: lê os links que você manda ao robô, monta a fila e posta nos horários."""
 import os, re, json, time, datetime, subprocess, html
-import shopee, redes, arte, pagina
+import shopee, mercadolivre, redes, arte, pagina
 
 EST = "data/estado.json"
 HORAS = [int(h) for h in os.environ.get("HORARIOS", "9,12,15,18,21").split(",")]
 CANAL = os.environ.get("TELEGRAM_CANAL", "")
 CONVITE = os.environ.get("CANAL_LINK", "https://t.me/")
 REPO = os.environ.get("GITHUB_REPOSITORY", "")
-RX_LINK = re.compile(r"https?://\S*(?:shopee|shope\.ee)\S*", re.I)
-AJUDA = ("Mande o link de um produto da Shopee e eu coloco na fila.\n"
+RX_LINK = re.compile(r"https?://\S*(?:shopee|shope\.ee|mercadoli[vb]re|meli\.la)\S*", re.I)
+AJUDA = ("Mande o link de um produto da Shopee ou do Mercado Livre (seu link de afiliado) e eu coloco na fila.\n"
          "Opcional, nas linhas de baixo: nome | preço | preço antigo\n\n"
          "/fila ver a fila  •  /agora postar o próximo já  •  /remover N")
 
@@ -32,7 +32,7 @@ def responder(s, chat, txt): redes.tg("sendMessage", chat_id=chat, text=txt, dis
 
 def novo_item(s, texto, foto_id):
     link = RX_LINK.search(texto).group(0)
-    p = shopee.produto(link)
+    p = mercadolivre.produto(link) if mercadolivre.RX.match(link) else dict(shopee.produto(link), loja="Shopee")
     extra = [l.strip() for l in texto.replace(link, "").splitlines() if l.strip()]
     if extra:
         partes = [x.strip() for x in extra[0].split("|")]
@@ -73,10 +73,11 @@ def textos(p, n):
     de = f"De <s>{p['preco_antigo']}</s>\n" if p.get("preco_antigo") else ""
     desc = f" (-{p['desconto']})" if p.get("desconto") else ""
     nome_h = html.escape(p.get('nome') or 'Achadinho do dia')
-    tg = f"🔥 <b>{nome_h}</b>\n\n{de}💰 Por <b>{p.get('preco','')}</b>{desc}\n\n🛒 {p['link']}"
+    loja = p.get("loja") or "Shopee"
+    tg = f"🔥 <b>{nome_h}</b>\n🏷️ {loja}\n\n{de}💰 Por <b>{p.get('preco','')}</b>{desc}\n\n🛒 {p['link']}"
     ig = (f"🔥 {p.get('nome') or 'Achadinho do dia'}\n💰 {p.get('preco','')}{desc}\n\n🔗 Link na bio: oferta nº {n}\n"
-          f"📲 Ofertas todo dia no nosso canal do Telegram (link na bio)\n\n#achadinhos #achadinhosshopee #shopee #ofertas #promoção")
-    wa = f"🔥 {p.get('nome') or 'Achadinho do dia'}\n💰 {p.get('preco','')}{desc}\n🛒 {p['link']}"
+          f"📲 Ofertas todo dia no nosso canal do Telegram (link na bio)\n\n#achadinhos " + ("#mercadolivre #achadinhosmercadolivre" if loja == "Mercado Livre" else "#achadinhosshopee #shopee") + " #ofertas #promoção")
+    wa = f"🔥 {p.get('nome') or 'Achadinho do dia'} ({loja})\n💰 {p.get('preco','')}{desc}\n🛒 {p['link']}"
     return tg, ig, wa
 
 def postar(s):
@@ -90,7 +91,7 @@ def postar(s):
     tg, ig, wa = textos(p, n)
     foto = p.get("imagem") or p.get("foto_tg")
     r = redes.tg_post_oferta(CANAL, tg, foto, p["link"]) if CANAL else {"pulado": "sem canal"}
-    s["postados"].append({k: p.get(k) for k in ("id", "num", "nome", "preco", "link")})
+    s["postados"].append({k: p.get(k) for k in ("id", "num", "nome", "preco", "link", "loja")})
     pagina.gerar(s["postados"], CONVITE)
     salvar(s); git_push(f"oferta {n}")
     time.sleep(20)
