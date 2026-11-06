@@ -1,6 +1,6 @@
 # Achadinhos - Desenvolvido por Luiz Cafe
 """Roda a cada 15 min no GitHub Actions: lê os links que você manda ao robô, monta a fila e posta nos horários."""
-import os, re, json, time, datetime, subprocess, html
+import os, re, json, time, random, datetime, subprocess, html
 import shopee, mercadolivre, redes, arte, pagina
 
 EST = "data/estado.json"
@@ -86,7 +86,8 @@ def textos(p, n):
     return tg, ig, wa
 
 def postar(s):
-    p = s["fila"].pop(0); s["num"] += 1; n = p["num"] = s["num"]
+    p = s["fila"].pop(random.randrange(len(s["fila"])))   # sorteia: mistura as categorias
+    s["num"] += 1; n = p["num"] = s["num"]
     os.makedirs("docs/img", exist_ok=True)
     if not p.get("imagem") and p.get("foto_tg"):          # foto mandada por você no Telegram
         f = redes.tg("getFile", file_id=p["foto_tg"]).get("result", {}).get("file_path")
