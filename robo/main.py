@@ -36,9 +36,14 @@ def novo_item(s, texto, foto_id):
     extra = [l.strip() for l in texto.replace(link, "").splitlines() if l.strip()]
     if extra:
         partes = [x.strip() for x in extra[0].split("|")]
+        rs = lambda v: v if v.startswith("R$") else "R$ " + v
+        for x in partes[3:]:                      # extras opcionais: foto (http...) e desconto (31%)
+            if x.startswith("http"): p["imagem"] = x
+            elif re.fullmatch(r"-?\d{1,2}%", x): p["desconto"] = x.lstrip("-")
+        partes = partes[:3]
         if partes[0]: p["nome"] = partes[0]
-        if len(partes) > 1: p["preco"] = partes[1] if partes[1].startswith("R$") else "R$ " + partes[1]
-        if len(partes) > 2: p["preco_antigo"] = partes[2] if partes[2].startswith("R$") else "R$ " + partes[2]
+        if len(partes) > 1 and partes[1]: p["preco"] = rs(partes[1])
+        if len(partes) > 2 and partes[2]: p["preco_antigo"] = rs(partes[2])
     if foto_id: p["foto_tg"] = foto_id
     p["id"] = str(int(time.time() * 1000))
     s["fila"].append(p)
