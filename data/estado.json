@@ -234,17 +234,6 @@
    "id": "1793999232073"
   },
   {
-   "nome": "Organizador de Pratos e Tampas para Armário",
-   "preco": "R$64,90",
-   "preco_antigo": "",
-   "desconto": "",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820mc-mnj4c64vswsh56",
-   "link": "https://s.shopee.com.br/7AevAXUeVL",
-   "url": "https://shopee.com.br/opaanlp/1786124298/23294946540?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAzgBQODqf6K0oOxrsiJYAlPt7w1ddAOuVlg4OJIUGXbGfoCOZlbq8TFFHcwhxnKeqenEwYbq6qJpHHCwS9ZbR0xMQdNlBQl2mWxq4O3OaC0kQW9Jjqz7oVQe5DwTg3pVgQbAdn9KB2tNVkMBpVP-70rMF0tZGPdxEFG75S7KAkd5J72obB7KF81XyPS3nkpyvv2IKxbFA&mmp_pid=an_18303930133&uls_trackid=572h35il00bs&utm_campaign=id_3ZWyIvJpCFp&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ft9wozrojkns",
-   "loja": "Shopee",
-   "id": "1793999233452"
-  },
-  {
    "nome": "Suporte Organizador de Xícaras para Armário",
    "preco": "R$13,90",
    "preco_antigo": "",
@@ -373,8 +362,16 @@
    "preco": "R$27,90",
    "link": "https://s.shopee.com.br/8KqsYjFr7w",
    "loja": "Shopee"
+  },
+  {
+   "id": "1793999233452",
+   "num": 6,
+   "nome": "Organizador de Pratos e Tampas para Armário",
+   "preco": "R$64,90",
+   "link": "https://s.shopee.com.br/7AevAXUeVL",
+   "loja": "Shopee"
   }
  ],
- "num": 5,
- "ultimo": "2026-11-07 12"
+ "num": 6,
+ "ultimo": "2026-11-07 15"
 }
