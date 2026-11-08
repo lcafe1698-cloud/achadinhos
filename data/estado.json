@@ -223,17 +223,6 @@
    "id": "1793999230347"
   },
   {
-   "nome": "Garrafa Térmica de Água",
-   "preco": "R$18,06",
-   "preco_antigo": "",
-   "desconto": "50%",
-   "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-825ak-mu1w7qzvovete9",
-   "link": "https://s.shopee.com.br/2Vt5bxM9o3",
-   "url": "https://shopee.com.br/opaanlp/1929821008/52568894722?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAz_WrDklJP3gvZtoxbkUYg2xHTwmUmOUO-T0VMqFw8MlX3J1q8RKfozLrbwAgMuAZXCwfk4oF8NkRVVliWZ1s8WDiF0kZii3s4QTKk9tDk87HnLVCwNTMll5YKrfhkqlQuvsSR_KwDoMByHggAXLoBiNaS-6a25gGRy03ktoaTcO3OEWjGIVyUobLiOUGpaqWoXuc5G-Q&mmp_pid=an_18303930133&uls_trackid=572h35d601jl&utm_campaign=id_7m7cv3uvCwf&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ft9wouz4dgt1",
-   "loja": "Shopee",
-   "id": "1793999232073"
-  },
-  {
    "nome": "Suporte Organizador de Xícaras para Armário",
    "preco": "R$13,90",
    "preco_antigo": "",
@@ -367,8 +356,16 @@
    "preco": "R$98,00",
    "link": "https://s.shopee.com.br/7VHlZBSiF8",
    "loja": "Shopee"
+  },
+  {
+   "id": "1793999232073",
+   "num": 8,
+   "nome": "Garrafa Térmica de Água",
+   "preco": "R$18,06",
+   "link": "https://s.shopee.com.br/2Vt5bxM9o3",
+   "loja": "Shopee"
   }
  ],
- "num": 7,
- "ultimo": "2026-11-07 18"
+ "num": 8,
+ "ultimo": "2026-11-07 21"
 }
