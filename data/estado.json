@@ -102,17 +102,6 @@
    "id": "1793994037318"
   },
   {
-   "nome": "Decoração de Mesa em Acrílico - Presépio de Natal",
-   "preco": "R$26,10",
-   "preco_antigo": "",
-   "desconto": "52%",
-   "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-825b2-mt9dsyu1wcg234",
-   "link": "https://s.shopee.com.br/2gCVjbsBil",
-   "url": "https://shopee.com.br/opaanlp/217841041/54518040680?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAx4V__gWW_7xGmIDWqgu_0OwK0JEMHbY2Xhb68yP35bEqVXt0zEMXl0Kq4oNLQo-B9SOVrtQGjEA_gLuGaoiMnRW4p2e94aZfoYWEsX31azBrgW4caVG6l7HsWkERMmdg8kok3rJIUzpPZIylzxub_x6-H833tSlF9C410torWDTsDT-lFlz3G2R0l_4a4aA83Vodk&mmp_pid=an_18303930133&uls_trackid=572gja8f022i&utm_campaign=id_4sPmGPIysyj&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ft9jh5xwpabh",
-   "loja": "Shopee",
-   "id": "1793994038354"
-  },
-  {
    "nome": "Kit 3 Potes de Sobremesa de Natal 15cm",
    "preco": "R$14,99",
    "preco_antigo": "",
@@ -364,8 +353,16 @@
    "preco": "R$18,06",
    "link": "https://s.shopee.com.br/2Vt5bxM9o3",
    "loja": "Shopee"
+  },
+  {
+   "id": "1793994038354",
+   "num": 9,
+   "nome": "Decoração de Mesa em Acrílico - Presépio de Natal",
+   "preco": "R$26,10",
+   "link": "https://s.shopee.com.br/2gCVjbsBil",
+   "loja": "Shopee"
   }
  ],
- "num": 8,
- "ultimo": "2026-11-07 21"
+ "num": 9,
+ "ultimo": "2026-11-08 09"
 }
