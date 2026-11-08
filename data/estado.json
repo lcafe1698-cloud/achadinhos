@@ -124,17 +124,6 @@
    "id": "1793994040417"
   },
   {
-   "nome": "Lembrancinha de Natal - Vela Aromática no Saquinho de Organza",
-   "preco": "R$28,97",
-   "preco_antigo": "",
-   "desconto": "27%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820lx-mtdwqdjsp69sf3",
-   "link": "https://s.shopee.com.br/114HkXYXxf",
-   "url": "https://shopee.com.br/opaanlp/389375599/23992657339?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAyBfVK7k0b8Yx1TWg5fR_AjZKgfTL23MmEo2tl08uCP6cITVVcjYZar_vRzWZkAYE86dcX6hmKfCQ91gJNpFnkO9aUecxqxxqLMcgz5duKuu9656v8op8wzf0uvNEUTLMT49vIZA8soqSrznLLo3Z7lRkPKpDnpyH1TQJWiL_LKy5N_7QBHa0Sq_tXA5byI8SYUCxE&mmp_pid=an_18303930133&uls_trackid=572gjai200br&utm_campaign=id_1zavWQThRrp&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ft9jheaeiax7",
-   "loja": "Shopee",
-   "id": "1793994041842"
-  },
-  {
    "nome": "Kit Sousplast, Jogo Americano e Caminho de Mesa de Natal",
    "preco": "R$27,90",
    "preco_antigo": "",
@@ -361,8 +350,16 @@
    "preco": "R$26,10",
    "link": "https://s.shopee.com.br/2gCVjbsBil",
    "loja": "Shopee"
+  },
+  {
+   "id": "1793994041842",
+   "num": 10,
+   "nome": "Lembrancinha de Natal - Vela Aromática no Saquinho de Organza",
+   "preco": "R$28,97",
+   "link": "https://s.shopee.com.br/114HkXYXxf",
+   "loja": "Shopee"
   }
  ],
- "num": 9,
- "ultimo": "2026-11-08 09"
+ "num": 10,
+ "ultimo": "2026-11-08 12"
 }
