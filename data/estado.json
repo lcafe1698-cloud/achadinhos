@@ -124,17 +124,6 @@
    "id": "1793994040417"
   },
   {
-   "nome": "Kit Sousplast, Jogo Americano e Caminho de Mesa de Natal",
-   "preco": "R$27,90",
-   "preco_antigo": "",
-   "desconto": "32%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820m9-mttmiteg9dds35",
-   "link": "https://s.shopee.com.br/6AmNu2fCsb",
-   "url": "https://shopee.com.br/opaanlp/1170803985/41584717212?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAzw4RSsQ8xcV3WF0gfvkjTg10af9aWySZgvPkly-AEEOueQrJNifM0XR5Oo-VFGCJbnBP3t6NOVzGfd5rjSAGpLDujcYrOTNPZNOE18ntoqF93QS5bb5u2ua-TEUBb8XwAYHqEfmqITRhQ3_SF6zBSxzcTFXQqzLNdDvIfOxUcXG6JQCYUTec89m3iUVF28z2iwsmrvOA&mmp_pid=an_18303930133&uls_trackid=572gjamh002i&utm_campaign=id_1v9UpAnaT7N&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ft9jhi5op88x",
-   "loja": "Shopee",
-   "id": "1793994042818"
-  },
-  {
    "nome": "Capa de Almofada de Natal Luxo - Pinheiros",
    "preco": "R$34,99",
    "preco_antigo": "",
@@ -465,8 +454,16 @@
    "preco": "R$44,98",
    "link": "https://s.shopee.com.br/20wp11xaq2",
    "loja": "Shopee"
+  },
+  {
+   "id": "1793994042818",
+   "num": 12,
+   "nome": "Kit Sousplast, Jogo Americano e Caminho de Mesa de Natal",
+   "preco": "R$27,90",
+   "link": "https://s.shopee.com.br/6AmNu2fCsb",
+   "loja": "Shopee"
   }
  ],
- "num": 11,
- "ultimo": "2026-11-08 15"
+ "num": 12,
+ "ultimo": "2026-11-08 18"
 }
