@@ -36,17 +36,6 @@
    "id": "1793991069077"
   },
   {
-   "nome": "Guirlanda de Natal MDF Mini Jesus Efeito 3D para Porta",
-   "preco": "R$32,98",
-   "preco_antigo": "",
-   "desconto": "",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134201-820lf-mualkhulq0w004",
-   "link": "https://s.shopee.com.br/9APzSozDxO",
-   "url": "https://shopee.com.br/opaanlp/400322358/46219244453?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAwBpnSxI8xM3eSFgKSkUwdQvfeOt1bL3iWsmYpgyQKO9ZdBw8pEM1ES6duNsdWtoVqLf9Dnmfc2bvNKaR6uMWcJVn7CzxsKmKwZFSjrc3ugy6V9aHPR30L1765JINm25uiBqzzA4IlSHGiGMmc3E_U97r0VvwuMeQ8j12osnCPADKAxMGuOaOvHPUFwrutvZX2OIr4&mmp_pid=an_18303930133&uls_trackid=572ga8cm00cc&utm_campaign=id_1VqN55EhG3B&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ft9ci4ue2s4s",
-   "loja": "Shopee",
-   "id": "1793991073117"
-  },
-  {
    "nome": "Kit Tábua Petisqueira de Natal para Mesa Posta - Pinheiro, Estrela e Gorro",
    "preco": "R$23,34",
    "preco_antigo": "",
@@ -574,8 +563,16 @@
    "preco": "R$15,00",
    "link": "https://s.shopee.com.br/60Sxgzu5nn",
    "loja": "Shopee"
+  },
+  {
+   "id": "1793991073117",
+   "num": 16,
+   "nome": "Guirlanda de Natal MDF Mini Jesus Efeito 3D para Porta",
+   "preco": "R$32,98",
+   "link": "https://s.shopee.com.br/9APzSozDxO",
+   "loja": "Shopee"
   }
  ],
- "num": 15,
- "ultimo": "2026-11-09 12"
+ "num": 16,
+ "ultimo": "2026-11-09 15"
 }
