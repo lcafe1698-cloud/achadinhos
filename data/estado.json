@@ -102,17 +102,6 @@
    "id": "1793994037318"
   },
   {
-   "nome": "Kit 3 Potes de Sobremesa de Natal 15cm",
-   "preco": "R$14,99",
-   "preco_antigo": "",
-   "desconto": "63%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820lz-mswznye0h3idfc",
-   "link": "https://s.shopee.com.br/1W0YLTJ2Xn",
-   "url": "https://shopee.com.br/opaanlp/659582849/24347775263?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAx04wRiExyXVP1odMj4LF483v0VEjHJCu9m--6e8oqutVgTh60BdF6EkDRPo-3yt8Iih5l8o4GWg2Pdu-HjcapfplLpFERNfMBeb4CIK3e8ZIoD55ho00JLlvgXyx0lAZFSglqVCQ6MbgQiKpxb_RndRJEg4BH5u6oG8hhEKjmQkfpIdDjlReUhkVRHZUqXu62bCIA&mmp_pid=an_18303930133&uls_trackid=572gjabg00kf&utm_campaign=id_9sOMnjXPVkb&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ft9jh8jwczi4",
-   "loja": "Shopee",
-   "id": "1793994039381"
-  },
-  {
    "nome": "Kit Decoração de Natal 3D Papai Noel, Rena e Boneco de Neve",
    "preco": "R$79,99",
    "preco_antigo": "",
@@ -462,8 +451,16 @@
    "preco": "R$27,90",
    "link": "https://s.shopee.com.br/6AmNu2fCsb",
    "loja": "Shopee"
+  },
+  {
+   "id": "1793994039381",
+   "num": 13,
+   "nome": "Kit 3 Potes de Sobremesa de Natal 15cm",
+   "preco": "R$14,99",
+   "link": "https://s.shopee.com.br/1W0YLTJ2Xn",
+   "loja": "Shopee"
   }
  ],
- "num": 12,
- "ultimo": "2026-11-08 18"
+ "num": 13,
+ "ultimo": "2026-11-08 21"
 }
