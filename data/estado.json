@@ -25,17 +25,6 @@
    "id": "1793991060049"
   },
   {
-   "nome": "Kit 84/42 Enfeites para Árvore de Natal - Bolinhas, Laços e Papai Noel",
-   "preco": "R$15,00",
-   "preco_antigo": "",
-   "desconto": "",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820lp-mtx6bvg5kydeba",
-   "link": "https://s.shopee.com.br/60Sxgzu5nn",
-   "url": "https://shopee.com.br/opaanlp/275804987/23697969853?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAybow3jgA_7YNVxZkzYryD15fUv9uxjwpfbT9SQOS-Tgq0fPQehmqIEH1AM3CFv_kuJoxROBqhJOBEH8BbnDrnPTCJP_rwzWNL_Z1iweF_w8r1Gs5LhCfR3BLDIWquG3mvvbr5DdjliheODi2itQHMwSP-2BfokkdNbIUG7yw08eTeSoyADocCiJyQc8MruiYqQuB0&mmp_pid=an_18303930133&uls_trackid=572ga7gg00c5&utm_campaign=id_56jpnFOHcoX&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ft9checfxvp7",
-   "loja": "Shopee",
-   "id": "1793991064661"
-  },
-  {
    "nome": "Caneca de Cerâmica Natalina Papai Noel e Boneco de Neve",
    "preco": "R$34,90",
    "preco_antigo": "",
@@ -577,8 +566,16 @@
    "preco": "R$18,99",
    "link": "https://s.shopee.com.br/40hwPc3SxU",
    "loja": "Shopee"
+  },
+  {
+   "id": "1793991064661",
+   "num": 15,
+   "nome": "Kit 84/42 Enfeites para Árvore de Natal - Bolinhas, Laços e Papai Noel",
+   "preco": "R$15,00",
+   "link": "https://s.shopee.com.br/60Sxgzu5nn",
+   "loja": "Shopee"
   }
  ],
- "num": 14,
- "ultimo": "2026-11-09 09"
+ "num": 15,
+ "ultimo": "2026-11-09 12"
 }
