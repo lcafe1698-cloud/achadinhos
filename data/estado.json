@@ -421,17 +421,6 @@
    "id": "1794225607373"
   },
   {
-   "nome": "Kit 5 Faixas Elásticas para Exercícios",
-   "preco": "R$13,50",
-   "preco_antigo": "",
-   "desconto": "46%",
-   "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-7rdwv-mdl9nltcxi55da",
-   "link": "https://s.shopee.com.br/1qdT18wXg1",
-   "url": "https://shopee.com.br/opaanlp/1234992705/23093409456?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAzkj7w8ciWr8EsWq4lW1TQuFbYFb4mJxu8-w3bKRypWBRdC0OvPRPqA6Z30BhDOHWKMZ_K5dYwWwixddqRLCu4WMsTs2JoxhaOWjyLBPOLOamdOuKvHqdCOdinfPWgw2-MwtVUTF_oeDGfphIvZlWEjxUS1JfTP5sFVaoxHSYkoOz69MirAi1Tr6NwarNU2_D47_gzxhw&mmp_pid=an_18303930133&uls_trackid=5736m0gt00l1&utm_campaign=id_3JRpQAIZlgb&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ftqjden7x3qh",
-   "loja": "Shopee",
-   "id": "1794225611631"
-  },
-  {
    "nome": "Fone de Condução Óssea Esportivo H'Maston F921",
    "preco": "R$42,99",
    "preco_antigo": "",
@@ -571,8 +560,16 @@
    "preco": "R$32,98",
    "link": "https://s.shopee.com.br/9APzSozDxO",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794225611631",
+   "num": 17,
+   "nome": "Kit 5 Faixas Elásticas para Exercícios",
+   "preco": "R$13,50",
+   "link": "https://s.shopee.com.br/1qdT18wXg1",
+   "loja": "Shopee"
   }
  ],
- "num": 16,
- "ultimo": "2026-11-09 15"
+ "num": 17,
+ "ultimo": "2026-11-09 18"
 }
