@@ -179,17 +179,6 @@
    "id": "1793999243477"
   },
   {
-   "nome": "Kit Colar e Pulseira de Contas Infantil",
-   "preco": "R$19,90",
-   "preco_antigo": "",
-   "desconto": "",
-   "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-7rbn0-lol1d1ln843laa",
-   "link": "https://s.shopee.com.br/4Ve9zg4X2r",
-   "url": "https://shopee.com.br/opaanlp/1203076315/25618119484?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAysbMpvIMxz32iP019Umt63OCzE6LfI3TBrR0Q_ElKh7okJwXLUCq0qV_qVbC1kXLGBnYfvjoT7uWbMUY4yZ_KpLfenZXcoYXS6lZ0-FInGrEMjIr4qrjn7JAO0fIrn8c2bS5siYYc_0VwlUuywEua1nrqWtVFVqKmA3_wtY7B2-JLHIjdg235zlphlOWu4ssYBxvGQHQ&mmp_pid=an_18303930133&uls_trackid=572h36mm000p&utm_campaign=id_5a22ECckiVR&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ft9wpx2b79m9",
-   "loja": "Shopee",
-   "id": "1793999244957"
-  },
-  {
    "nome": "Smartwatch Série 9 Plus",
    "preco": "R$91,99",
    "preco_antigo": "",
@@ -675,8 +664,16 @@
    "preco": "R$29,99",
    "link": "https://s.shopee.com.br/4fxaBxdu2i",
    "loja": "Shopee"
+  },
+  {
+   "id": "1793999244957",
+   "num": 19,
+   "nome": "Kit Colar e Pulseira de Contas Infantil",
+   "preco": "R$19,90",
+   "link": "https://s.shopee.com.br/4Ve9zg4X2r",
+   "loja": "Shopee"
   }
  ],
- "num": 18,
- "ultimo": "2026-11-09 21"
+ "num": 19,
+ "ultimo": "2026-11-10 09"
 }
