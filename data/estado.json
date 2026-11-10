@@ -223,17 +223,6 @@
    "id": "1794160522424"
   },
   {
-   "nome": "Porta Temperos de Parede com Porta Papel Toalha e Alumínio",
-   "preco": "R$39,99",
-   "preco_antigo": "",
-   "desconto": "47%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m0czbhqk5kzld9",
-   "link": "https://s.shopee.com.br/60T0nDSfcC",
-   "url": "https://shopee.com.br/opaanlp/408989937/19799386160?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAyQbpxhrVs_Jqc5RvcWJixw3rB83ZiTjlbw0l7qK6JaQpzUWXEN4MWBpk7GLaoCXEXSByJPwdxnwIb3Ng2sUD06Zhj7rahuRvHWuqZc3rt2CR86r3VBJBToJrtPvdxBQ0b3akqHYNVg67UtZL_SXCMTxiwKHWzA3F3Ogj_2hQ1QXU2xLNfR0BgGp84IGdeDpr4lq2Y&mmp_pid=an_18303930133&uls_trackid=5730fcir00je&utm_campaign=id_2lnsAcOZV9p&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ftm2hzmj8mgs",
-   "loja": "Shopee",
-   "id": "1794160523926"
-  },
-  {
    "nome": "Kit Potes de Tempero 200ml com Adesivos",
    "preco": "R$17,89",
    "preco_antigo": "",
@@ -672,8 +661,16 @@
    "preco": "R$19,90",
    "link": "https://s.shopee.com.br/4Ve9zg4X2r",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794160523926",
+   "num": 20,
+   "nome": "Porta Temperos de Parede com Porta Papel Toalha e Alumínio",
+   "preco": "R$39,99",
+   "link": "https://s.shopee.com.br/60T0nDSfcC",
+   "loja": "Shopee"
   }
  ],
- "num": 19,
- "ultimo": "2026-11-10 09"
+ "num": 20,
+ "ultimo": "2026-11-10 12"
 }
