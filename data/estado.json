@@ -102,17 +102,6 @@
    "id": "1793994043914"
   },
   {
-   "nome": "Kit 4 Capas de Almofada de Natal - Papai Noel, Boneco de Neve e Rena",
-   "preco": "R$44,90",
-   "preco_antigo": "",
-   "desconto": "",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820lm-msr2rik9ne2t7a",
-   "link": "https://s.shopee.com.br/80E25QBxkA",
-   "url": "https://shopee.com.br/opaanlp/1376568391/23199680933?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAyP5gChJsGoE079qwZFv-iKCJacjerhIg94itl8de2mrdll7zB74FMyd_Mi2eAbDBbln88TMAJ0sC7KFJa1hAaSSoo9D98uQCXaAHGLmfs5PLI8WMOHsy4pqLFK60MGy-4VFp9Mqg1zBcg9TE1N64VvWVfopilv0SmR2B70RkAgMx9KNSz5MmNZOhU5WRBksJ-LvRJWaA&mmp_pid=an_18303930133&uls_trackid=572gjass00bq&utm_campaign=id_A6TzuQNuU5F&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ft9jhootans1",
-   "loja": "Shopee",
-   "id": "1793994044856"
-  },
-  {
    "nome": "Presépio de Natal Minimalista com Bandeja e Vela de LED",
    "preco": "R$52,80",
    "preco_antigo": "",
@@ -669,8 +658,16 @@
    "preco": "R$39,99",
    "link": "https://s.shopee.com.br/60T0nDSfcC",
    "loja": "Shopee"
+  },
+  {
+   "id": "1793994044856",
+   "num": 21,
+   "nome": "Kit 4 Capas de Almofada de Natal - Papai Noel, Boneco de Neve e Rena",
+   "preco": "R$44,90",
+   "link": "https://s.shopee.com.br/80E25QBxkA",
+   "loja": "Shopee"
   }
  ],
- "num": 20,
- "ultimo": "2026-11-10 12"
+ "num": 21,
+ "ultimo": "2026-11-10 15"
 }
