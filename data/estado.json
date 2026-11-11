@@ -168,17 +168,6 @@
    "id": "1793999243477"
   },
   {
-   "nome": "Smartwatch H'Maston W69",
-   "preco": "R$129,99",
-   "preco_antigo": "",
-   "desconto": "",
-   "imagem": "",
-   "link": "https://s.shopee.com.br/6VPENMwVwO",
-   "url": "https://shopee.com.br/opaanlp/1847606927/22699516192?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAw5FZgoUb8VVGtyuw-EK5qlg92I4DJUN367241ucM_DRvHnINidgujjtY_zUvcetLU_C59F4xqPM2QepcfzeaISwp886TShiMfzuXa9A0vv7Ear_5pv8ytIE_3fFyQX38wEcttvPeRNlhij5Q6H4E11MC-N6SS75DvtGjK9vc6i4XJfWgoWXgYZyELk0sC5sB6QHkEyvg&mmp_pid=an_18303930133&uls_trackid=572h3745010p&utm_campaign=id_3ZWxsY6ANjh&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ft9wq9rjcwbu",
-   "loja": "Shopee",
-   "id": "1793999249269"
-  },
-  {
    "nome": "Fone de Condução Óssea Bluetooth Esportivo",
    "preco": "R$42,99",
    "preco_antigo": "",
@@ -663,8 +652,16 @@
    "preco": "R$91,99",
    "link": "https://s.shopee.com.br/9APzYGhpDg",
    "loja": "Shopee"
+  },
+  {
+   "id": "1793999249269",
+   "num": 23,
+   "nome": "Smartwatch H'Maston W69",
+   "preco": "R$129,99",
+   "link": "https://s.shopee.com.br/6VPENMwVwO",
+   "loja": "Shopee"
   }
  ],
- "num": 22,
- "ultimo": "2026-11-10 18"
+ "num": 23,
+ "ultimo": "2026-11-10 21"
 }
