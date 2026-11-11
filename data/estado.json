@@ -540,17 +540,6 @@
    "url": "https://shopee.com.br/opaanlp/472202601/58201698463?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAxW7LApnaRT9oBdcosBXRkNaFGYF9ijDNGcWPQscMvIDXm8DptvmnHGEhfAFPEN9ItI6H1xVWbbTH_DHIZhNXYfxYyonWHXT3oU6A9riiCHXwc3MN0JCzppi6zoOToz7qcYZ5hjhnS34KPRrx9NU-qapiTkpUXFRySYdZH3IY2NlNh6Qa_t--gMYujXmk0NGnC68tA&mmp_pid=an_18303930133&uls_trackid=573nbu7d01cc&utm_campaign=id_5VfxxwPQW8H&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fu3natmots9h",
    "loja": "Shopee",
    "id": "1794400566024"
-  },
-  {
-   "nome": "Garrafa Squeeze Motivacional 2L",
-   "preco": "R$26,90",
-   "preco_antigo": "",
-   "desconto": "",
-   "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-7qvei-lgpi106vogmbd6",
-   "link": "https://s.shopee.com.br/6q2CBjd7FS",
-   "url": "https://shopee.com.br/opaanlp/832676963/23391200508?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAyqKVR10YfjZMbYrL1zCyZn3BklU98Xdts8ulnxVvvbheM09MExANYHTAmhhXmWg5GTgU9dBVkiCO9bC8-BCS8I4oWz26nWjyG5eWnvVpuQum98MRJL7YPPgLRYtHagIKvH1pz17EIjHP52XTmKqfVrXa0QFsT87bp9OkkMkAO27YODWQsmAblh3yG2GqX9GG9q-wY&mmp_pid=an_18303930133&uls_trackid=573nbuan00c2&utm_campaign=id_29JhsmSGIBF&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fu3nawhzhj9s",
-   "loja": "Shopee",
-   "id": "1794400567084"
   }
  ],
  "postados": [
@@ -761,8 +750,16 @@
    "preco": "R$42,99",
    "link": "https://s.shopee.com.br/5VWlNj4DpM",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794400567084",
+   "num": 27,
+   "nome": "Garrafa Squeeze Motivacional 2L",
+   "preco": "R$26,90",
+   "link": "https://s.shopee.com.br/6q2CBjd7FS",
+   "loja": "Shopee"
   }
  ],
- "num": 26,
- "ultimo": "2026-11-11 15"
+ "num": 27,
+ "ultimo": "2026-11-11 18"
 }
