@@ -245,17 +245,6 @@
    "id": "1794160530859"
   },
   {
-   "nome": "Fone de Condução Óssea Esportivo H'Maston F921",
-   "preco": "R$42,99",
-   "preco_antigo": "",
-   "desconto": "64%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820md-msfchkqc38xw4f",
-   "link": "https://s.shopee.com.br/5VWlNj4DpM",
-   "url": "https://shopee.com.br/opaanlp/1847606927/58216872655?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAwtcV7WKGOlXQxeR3tDM7hNU3mfg0qa1jBaRLX-Ihze8ozoUflsU9HO_35KuqZyI8ElIaYOuPhsdGcZTrlPFitUU_bDUc_oJNDHUjS0e19e-r7ThaZ6l1GlUdBlxsDDhPNGjFiQRpaDD3zmxF_yDfQ7iWOjzwbZJp8dZ_KhHTHEsQfQaJCqK0KsQmJC-f2qS1tGNzjugA&mmp_pid=an_18303930133&uls_trackid=5736lsnj00l7&utm_campaign=id_1wXZjPKHBP3&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ftqjab88km35",
-   "loja": "Shopee",
-   "id": "1794225572959"
-  },
-  {
    "nome": "Fone Bluetooth Miniso X28 com Tradução por IA",
    "preco": "R$119,99",
    "preco_antigo": "",
@@ -764,8 +753,16 @@
    "preco": "R$18,00",
    "link": "https://s.shopee.com.br/5VWkCNAxHb",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794225572959",
+   "num": 26,
+   "nome": "Fone de Condução Óssea Esportivo H'Maston F921",
+   "preco": "R$42,99",
+   "link": "https://s.shopee.com.br/5VWlNj4DpM",
+   "loja": "Shopee"
   }
  ],
- "num": 25,
- "ultimo": "2026-11-11 12"
+ "num": 26,
+ "ultimo": "2026-11-11 15"
 }
