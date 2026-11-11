@@ -245,17 +245,6 @@
    "id": "1794160530859"
   },
   {
-   "nome": "Fio de LED a Pilha 2m 120 LEDs",
-   "preco": "R$18,00",
-   "preco_antigo": "",
-   "desconto": "33%",
-   "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-7rdw3-mci57j60plq8ea",
-   "link": "https://s.shopee.com.br/5VWkCNAxHb",
-   "url": "https://shopee.com.br/opaanlp/1177875936/23798741212?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAxSyLYY94ezOGuY3P1N1fXlsFlqKLM9LDjZFCLBBkX-ZutH2bCryXFkn2JB_6k5ymrsyDFmfLK8vWGh3XQA6JNPnS0SnoOtZo3t2ubbXcluLuvekJpEvtAYmuiDUs1LUYJEoLT8zVVdYTLW96ojYHmrZtSckU0qYYT3c8DEik3mFcWBkuROhT4fDia4MZ6b_Dte-hUNMg&mmp_pid=an_18303930133&uls_trackid=5730fdi000c4&utm_campaign=id_5npDe1ITnwT&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ftm2ispghs35",
-   "loja": "Shopee",
-   "id": "1794160533732"
-  },
-  {
    "nome": "Fone de Condução Óssea Esportivo H'Maston F921",
    "preco": "R$42,99",
    "preco_antigo": "",
@@ -767,8 +756,16 @@
    "preco": "R$42,99",
    "link": "https://s.shopee.com.br/5VWlNj4DpM",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794160533732",
+   "num": 25,
+   "nome": "Fio de LED a Pilha 2m 120 LEDs",
+   "preco": "R$18,00",
+   "link": "https://s.shopee.com.br/5VWkCNAxHb",
+   "loja": "Shopee"
   }
  ],
- "num": 24,
- "ultimo": "2026-11-11 09"
+ "num": 25,
+ "ultimo": "2026-11-11 12"
 }
