@@ -454,17 +454,6 @@
    "id": "1794400558773"
   },
   {
-   "nome": "Escorredor de Louça Inox com Prateleira",
-   "preco": "R$142,90",
-   "preco_antigo": "",
-   "desconto": "52%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820lv-mtexauxef01u11",
-   "link": "https://s.shopee.com.br/LoiRj3PP9",
-   "url": "https://shopee.com.br/opaanlp/1735852805/58216416776?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAx_FfssVUXxNI0V5SYyHZCT4JrhvVEYFKv_--rvxvEcTrIDDiMK94SSHdttll0dCCWToUCM8o0_MJdYo4xc5o-Hu4ae3YJXphcGFq-wtTN4BFKZlcpPDj7ybY342ryka9YpZoIiJflz8Qk9GAPviILMlNWJS2vswQO1m2jKgkLHKI3mnBqgItKCxBuD6D3xZSHIuMkTVg&mmp_pid=an_18303930133&uls_trackid=573nbtnl03k8&utm_campaign=id_3WWSbl29cYr&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fu3naexsisyh",
-   "loja": "Shopee",
-   "id": "1794400560977"
-  },
-  {
    "nome": "Brinquedo para Cachorro e Gato",
    "preco": "R$21,99",
    "preco_antigo": "",
@@ -873,8 +862,16 @@
    "preco": "R$19,99",
    "link": "https://s.shopee.com.br/6VPKAGNIgA",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794400560977",
+   "num": 30,
+   "nome": "Escorredor de Louça Inox com Prateleira",
+   "preco": "R$142,90",
+   "link": "https://s.shopee.com.br/LoiRj3PP9",
+   "loja": "Shopee"
   }
  ],
- "num": 29,
- "ultimo": "2026-11-12 09"
+ "num": 30,
+ "ultimo": "2026-11-12 12"
 }
