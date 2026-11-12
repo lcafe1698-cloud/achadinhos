@@ -289,17 +289,6 @@
    "id": "1794225594736"
   },
   {
-   "nome": "Kit Pincel de Maquiagem 5 em 1 com Espelho",
-   "preco": "R$56,99",
-   "preco_antigo": "",
-   "desconto": "29%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820lo-mmlfnqb16z2e5e",
-   "link": "https://s.shopee.com.br/AUvRL1hsWq",
-   "url": "https://shopee.com.br/opaanlp/1735852805/58258170188?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAz1HUAMOP90l15ozYvHITxJ472p5AMmZKxBSbto5ynMr9w3dffB2okk4pWYJaNgwx2njbEHgtWa7aI2BSkDoeKxJCueMur1EhPzui2Z-r888B_BrmCBdljbWBybyu2CS5p4qxMchCIJq8VELh1PmmLTDt4fObFJdziJuuqReKo-nVcrwnHnhGH53xRRHkhgoxae-fzucg&mmp_pid=an_18303930133&uls_trackid=5736lv9t01k8&utm_campaign=id_3TcACygMNjZ&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ftqjcerev57d",
-   "loja": "Shopee",
-   "id": "1794225598934"
-  },
-  {
    "nome": "Kit Pincéis de Maquiagem Profissional",
    "preco": "R$35,64",
    "preco_antigo": "",
@@ -870,8 +859,16 @@
    "preco": "R$142,90",
    "link": "https://s.shopee.com.br/LoiRj3PP9",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794225598934",
+   "num": 31,
+   "nome": "Kit Pincel de Maquiagem 5 em 1 com Espelho",
+   "preco": "R$56,99",
+   "link": "https://s.shopee.com.br/AUvRL1hsWq",
+   "loja": "Shopee"
   }
  ],
- "num": 30,
- "ultimo": "2026-11-12 12"
+ "num": 31,
+ "ultimo": "2026-11-12 15"
 }
