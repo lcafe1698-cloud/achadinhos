@@ -69,17 +69,6 @@
    "id": "1793994036362"
   },
   {
-   "nome": "Enfeite de Natal Globo de Neve de Vidro 8cm",
-   "preco": "R$27,99",
-   "preco_antigo": "",
-   "desconto": "44%",
-   "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-8257y-mtsbpfu4wglh58",
-   "link": "https://s.shopee.com.br/3Vlcj8gDPx",
-   "url": "https://shopee.com.br/opaanlp/577639545/22797891574?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAwt7w-5fkXdr_Zt-_b2EbAG8hnW9j8rZRJhmBLot8jB2StZkIYuPhKdOB7kiQEqYyNCUzpkjGX2oEsDdclpQk17lo9A0aPTU2fWtgeOfpUH8RYgVhcOPWA_jStyKCDSsOvULB9_bhHAGcF_xMWECj1FuJgelA5BP3XMSJqcKBh-J__LzXjl6OhSvWA8124y2zgjjBQ&mmp_pid=an_18303930133&uls_trackid=572gja5a00kf&utm_campaign=id_7WZKChUFJBl&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ft9jh36xjb2o",
-   "loja": "Shopee",
-   "id": "1793994037318"
-  },
-  {
    "nome": "Kit Decoração de Natal 3D Papai Noel, Rena e Boneco de Neve",
    "preco": "R$79,99",
    "preco_antigo": "",
@@ -758,8 +747,16 @@
    "preco": "R$26,90",
    "link": "https://s.shopee.com.br/6q2CBjd7FS",
    "loja": "Shopee"
+  },
+  {
+   "id": "1793994037318",
+   "num": 28,
+   "nome": "Enfeite de Natal Globo de Neve de Vidro 8cm",
+   "preco": "R$27,99",
+   "link": "https://s.shopee.com.br/3Vlcj8gDPx",
+   "loja": "Shopee"
   }
  ],
- "num": 27,
- "ultimo": "2026-11-11 18"
+ "num": 28,
+ "ultimo": "2026-11-11 21"
 }
