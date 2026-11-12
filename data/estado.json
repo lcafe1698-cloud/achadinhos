@@ -168,17 +168,6 @@
    "id": "1794160520894"
   },
   {
-   "nome": "Fone Bluetooth 5.4 TWS Sem Fio",
-   "preco": "R$23,00",
-   "preco_antigo": "",
-   "desconto": "54%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820lc-mrpx232v4zk57b",
-   "link": "https://s.shopee.com.br/50aTbMJgMT",
-   "url": "https://shopee.com.br/opaanlp/1897432635/58265877578?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAwTCLJDAOPowveVcgqCpNtezbiurM0Hc1Th7qxQMq9RY220Fw-kS-xJJjx8Zj1PS9xdOokMwn3S5nuk6JybvvsxGBCUfcKwz1nciADrpCR7_uIPIzwwFzON66VFSQRDOVE-k3UmM59wCyzH0rEsZUGDXXK2ogNcOdQFLe6EyIFFI_dfgAP54vkcn4B3B6CfGjBEOyHqng&mmp_pid=an_18303930133&uls_trackid=5730fcej00l1&utm_campaign=id_9oTtbVGtDdt&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ftm2hvwiyeqd",
-   "loja": "Shopee",
-   "id": "1794160522424"
-  },
-  {
    "nome": "Kit Potes de Tempero 200ml com Adesivos",
    "preco": "R$17,89",
    "preco_antigo": "",
@@ -867,8 +856,16 @@
    "preco": "R$56,99",
    "link": "https://s.shopee.com.br/AUvRL1hsWq",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794160522424",
+   "num": 32,
+   "nome": "Fone Bluetooth 5.4 TWS Sem Fio",
+   "preco": "R$23,00",
+   "link": "https://s.shopee.com.br/50aTbMJgMT",
+   "loja": "Shopee"
   }
  ],
- "num": 31,
- "ultimo": "2026-11-12 15"
+ "num": 32,
+ "ultimo": "2026-11-12 18"
 }
