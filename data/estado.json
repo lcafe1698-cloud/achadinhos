@@ -377,17 +377,6 @@
    "id": "1794310101425"
   },
   {
-   "nome": "Kit 10 Máscaras Faciais Peel Off",
-   "preco": "R$19,99",
-   "preco_antigo": "",
-   "desconto": "67%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820m6-mue680zivabka5",
-   "link": "https://s.shopee.com.br/6VPKAGNIgA",
-   "url": "https://shopee.com.br/opaanlp/1925759353/58220566077?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAwoP9IP3QXpC3purubBdAwy7971ZrlNBlS8Z9xB2baWSXIXOH2dxP1h-8M2ZCKtV-OsWIopOc4MQ3rAS4mlAsQ6JebEMtC40GDqayqHQWmvtVADtKM8lgzxe3JACQzHu4miDcU9r8Owa6TFA7sh90doTcWuOJTCh7AEkWroS8rNCCYT2rxJP9ObgFbsT_eICBSxiuc6jQ&mmp_pid=an_18303930133&uls_trackid=573enrt101f4&utm_campaign=id_7alHrXuLrdp&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ftwdtrwt7uq1",
-   "loja": "Shopee",
-   "id": "1794310102458"
-  },
-  {
    "nome": "Brinquedo Pelúcia para Cachorro e Gato",
    "preco": "R$21,99",
    "preco_antigo": "",
@@ -876,8 +865,16 @@
    "preco": "R$27,99",
    "link": "https://s.shopee.com.br/3Vlcj8gDPx",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794310102458",
+   "num": 29,
+   "nome": "Kit 10 Máscaras Faciais Peel Off",
+   "preco": "R$19,99",
+   "link": "https://s.shopee.com.br/6VPKAGNIgA",
+   "loja": "Shopee"
   }
  ],
- "num": 28,
- "ultimo": "2026-11-11 21"
+ "num": 29,
+ "ultimo": "2026-11-12 09"
 }
