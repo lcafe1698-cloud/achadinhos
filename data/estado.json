@@ -619,17 +619,6 @@
    "id": "1794569566721"
   },
   {
-   "nome": "Kit Sérum Vitamina C + Retinol Antissinais Dia e Noite",
-   "preco": "R$32,88",
-   "preco_antigo": "",
-   "desconto": "53%",
-   "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-825b8-mrwqjp841iio33",
-   "link": "https://s.shopee.com.br/8pnJjBlLC9",
-   "url": "https://shopee.com.br/opaanlp/1613313673/58266270841?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAyp6a6DdY2Lup_sKXvAVrmxOBV8PQKBXtrPZz6KPFECPRlPnExH4drOTm3QyYmBUN-NbpJognyuDW_acwx-UfcII7nTwLExyqUOK7YSr4s9GmvBH4mf8z5qTtNzKo1rj-ogdRfVNVpmslgdlWWlgqolK4eTPG4BUoAXX_djzGxZxudFn6WaIqokE7moIZhHzbSNErSU3g&mmp_pid=an_18303930133&uls_trackid=5747fm9p01br&utm_campaign=id_5pbUQf9AVFh&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fufb8mta2phe",
-   "loja": "Shopee",
-   "id": "1794569571101"
-  },
-  {
    "nome": "Kit Sérum Facial Vitamina C + 3 em 1 Max Love",
    "preco": "R$19,98",
    "preco_antigo": "",
@@ -965,8 +954,16 @@
    "preco": "R$23,99",
    "link": "https://s.shopee.com.br/8fTirtajE8",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794569571101",
+   "num": 36,
+   "nome": "Kit Sérum Vitamina C + Retinol Antissinais Dia e Noite",
+   "preco": "R$32,88",
+   "link": "https://s.shopee.com.br/8pnJjBlLC9",
+   "loja": "Shopee"
   }
  ],
- "num": 35,
- "ultimo": "2026-11-13 12"
+ "num": 36,
+ "ultimo": "2026-11-13 15"
 }
