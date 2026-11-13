@@ -410,17 +410,6 @@
    "id": "1794400557729"
   },
   {
-   "nome": "Porta Utensílios Organizador de Talheres",
-   "preco": "R$29,81",
-   "preco_antigo": "",
-   "desconto": "28%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820m4-mt6ms6ockoasbe",
-   "link": "https://s.shopee.com.br/5VWobDezlz",
-   "url": "https://shopee.com.br/opaanlp/1566610473/58268220530?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAzvS4D340HqCxh-sIdjpIsUSNSpNEDGtv48Hwsy_VgihrQNAPIG7Cmz48LYgRWEshFVfXC2w1xF1IvBimmVOfdtC0ET5T_YqMbW2RHumOg2GzUev0eTB9VzPl3Q3A1ElioieadkwvWYv6wX9-eY_68OIhLJQTxdaZLzhmwYLxkRMZnuiHVOqjPsnZRtdjWDKC264eGWlw&mmp_pid=an_18303930133&uls_trackid=573nbtgo02sh&utm_campaign=id_1RmkgH8p43l&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fu3na8vxbmsu",
-   "loja": "Shopee",
-   "id": "1794400558773"
-  },
-  {
    "nome": "Brinquedo para Cachorro e Gato",
    "preco": "R$21,99",
    "preco_antigo": "",
@@ -971,8 +960,16 @@
    "preco": "R$67,00",
    "link": "https://s.shopee.com.br/7pubxnnNEn",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794400558773",
+   "num": 34,
+   "nome": "Porta Utensílios Organizador de Talheres",
+   "preco": "R$29,81",
+   "link": "https://s.shopee.com.br/5VWobDezlz",
+   "loja": "Shopee"
   }
  ],
- "num": 33,
- "ultimo": "2026-11-12 21"
+ "num": 34,
+ "ultimo": "2026-11-13 09"
 }
