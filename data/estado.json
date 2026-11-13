@@ -14,17 +14,6 @@
    "id": "1793991055535"
   },
   {
-   "nome": "Petisqueira de Natal em Madeira - Tábua de Frios Mesa Posta",
-   "preco": "R$23,99",
-   "preco_antigo": "",
-   "desconto": "31%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820l5-mtfmz1rnlou811",
-   "link": "https://s.shopee.com.br/8fTirtajE8",
-   "url": "https://shopee.com.br/opaanlp/669207032/49368310877?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAxF6g3gWoqeE2_tQcNVAFMlYdGQ90Ud0Ar1Kq_WrXsP_79kyFkmB_x3xUZ-MXTDRhsKL3IHf3NEVNJMtpNrw1d3Ej4C1rgQ0DkQBXIp97xT7xaYH3i7OaUs1SC3XEO0IF-mN6oqUz24Z6wRsDcWbn8wdq7g5cf53Pf5DWK9z9qOE-sItqCNLScJdWBEfSCW48iWais&mmp_pid=an_18303930133&uls_trackid=572ga72g00c1&utm_campaign=id_9aBNyhnXsXl&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ft9ch25v8gw2",
-   "loja": "Shopee",
-   "id": "1793991060049"
-  },
-  {
    "nome": "Caneca de Cerâmica Natalina Papai Noel e Boneco de Neve",
    "preco": "R$34,90",
    "preco_antigo": "",
@@ -968,8 +957,16 @@
    "preco": "R$29,81",
    "link": "https://s.shopee.com.br/5VWobDezlz",
    "loja": "Shopee"
+  },
+  {
+   "id": "1793991060049",
+   "num": 35,
+   "nome": "Petisqueira de Natal em Madeira - Tábua de Frios Mesa Posta",
+   "preco": "R$23,99",
+   "link": "https://s.shopee.com.br/8fTirtajE8",
+   "loja": "Shopee"
   }
  ],
- "num": 34,
- "ultimo": "2026-11-13 09"
+ "num": 35,
+ "ultimo": "2026-11-13 12"
 }
