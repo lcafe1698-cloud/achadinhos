@@ -531,17 +531,6 @@
    "id": "1794483347948"
   },
   {
-   "nome": "Bolsa Feminina de Lona Transversal",
-   "preco": "R$37,99",
-   "preco_antigo": "",
-   "desconto": "30%",
-   "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-820n2-mnljb0f1nw8x1f",
-   "link": "https://s.shopee.com.br/20wxznw6J9",
-   "url": "https://shopee.com.br/opaanlp/1699726880/58259749998?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAxKJA-HnhIvmep1NXrczVQ7lI636BMlI8nvJgeN95tNJqb9cJaZSY91cmY5HjJeUKXC6aSwhNILLXMjFzB65eJediZzNKTXNs018mwn4JwweslyBRLdmYe5-hd4hpHg0wRhP6PfPPyMIF3zHFiijLNe8WHtXNq3QE6es6EbUij4KMu-Mls_CIiY3WM2uFeQoUttTHiKWw&mmp_pid=an_18303930133&uls_trackid=573v8ig400c6&utm_campaign=id_AXXYtBGeRSD&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fu9cqixzi3e7",
-   "loja": "Shopee",
-   "id": "1794483348962"
-  },
-  {
    "nome": "Prateleira Triangular Adesiva para Banheiro",
    "preco": "R$18,00",
    "preco_antigo": "",
@@ -962,8 +951,16 @@
    "preco": "R$32,88",
    "link": "https://s.shopee.com.br/8pnJjBlLC9",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794483348962",
+   "num": 37,
+   "nome": "Bolsa Feminina de Lona Transversal",
+   "preco": "R$37,99",
+   "link": "https://s.shopee.com.br/20wxznw6J9",
+   "loja": "Shopee"
   }
  ],
- "num": 36,
- "ultimo": "2026-11-13 15"
+ "num": 37,
+ "ultimo": "2026-11-13 18"
 }
