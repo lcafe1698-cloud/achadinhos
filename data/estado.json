@@ -454,17 +454,6 @@
    "id": "1794483344599"
   },
   {
-   "nome": "Laptop Infantil Educativo",
-   "preco": "R$37,99",
-   "preco_antigo": "",
-   "desconto": "50%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820me-mukvjuuebqbmf5",
-   "link": "https://s.shopee.com.br/6L5x9kJWp1",
-   "url": "https://shopee.com.br/opaanlp/1717663781/23094876336?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAyBoatybLHiDewbLyJdk6wo8yO3g2OSlcGwODvT4ACuClgaz80S-saILunaHr4Zei8da_sPR1JHApjSi7gua-M-Zd-zB3xSubSX4-zZHdIi-a5aGQwovKoPTdo5E3pKurJeXO0FQJY0f1900saXo2k-ocB-n3TLL7R9d-ydWcM5QLGOls9jNyrQJmVRjghE-xNs1D8uUA&mmp_pid=an_18303930133&uls_trackid=573v8i5g00l1&utm_campaign=id_2zxQ0zVUbSb&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fu9cq9o75pf9",
-   "loja": "Shopee",
-   "id": "1794483345654"
-  },
-  {
    "nome": "Labirinto Magnético Educativo",
    "preco": "R$39,99",
    "preco_antigo": "",
@@ -947,8 +936,16 @@
    "preco": "R$79,99",
    "link": "https://s.shopee.com.br/LoaxJNofq",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794483345654",
+   "num": 42,
+   "nome": "Laptop Infantil Educativo",
+   "preco": "R$37,99",
+   "link": "https://s.shopee.com.br/6L5x9kJWp1",
+   "loja": "Shopee"
   }
  ],
- "num": 41,
- "ultimo": "2026-11-14 15"
+ "num": 42,
+ "ultimo": "2026-11-14 18"
 }
