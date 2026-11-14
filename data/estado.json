@@ -366,17 +366,6 @@
    "id": "1794400556747"
   },
   {
-   "nome": "Fone de Condução Óssea para Corrida",
-   "preco": "R$42,99",
-   "preco_antigo": "",
-   "desconto": "64%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820md-msfchkqc38xw4f",
-   "link": "https://s.shopee.com.br/gRYqJKCbN",
-   "url": "https://shopee.com.br/opaanlp/1847606927/58216872655?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAx12z5Oo6tQDAEAn34MzsGYfKd3sq7ZPzn7tnsk9aLDWDIHQhyCOl8JJh5mGA_8k9nQmI1kt3L6JXnvnEwdUF7oJkq8g9uTP7PrDtWU0YWKhOOFUURyU2mfjDcNmma0qKtdfU49ACtr74iCtZUQsKnLEKTbv52SjTRsitGk6qM_prLNkjOxc4exCDXqjDCkyvqbVbFPkg&mmp_pid=an_18303930133&uls_trackid=573nbtdg01c4&utm_campaign=id_7lfWf42c0np&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fu3na64kmkaj",
-   "loja": "Shopee",
-   "id": "1794400557729"
-  },
-  {
    "nome": "Brinquedo para Cachorro e Gato",
    "preco": "R$21,99",
    "preco_antigo": "",
@@ -953,8 +942,16 @@
    "preco": "R$29,81",
    "link": "https://s.shopee.com.br/60T3ZJlWrj",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794400557729",
+   "num": 40,
+   "nome": "Fone de Condução Óssea para Corrida",
+   "preco": "R$42,99",
+   "link": "https://s.shopee.com.br/gRYqJKCbN",
+   "loja": "Shopee"
   }
  ],
- "num": 39,
- "ultimo": "2026-11-14 09"
+ "num": 40,
+ "ultimo": "2026-11-14 12"
 }
