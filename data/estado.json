@@ -58,17 +58,6 @@
    "id": "1793994036362"
   },
   {
-   "nome": "Kit Decoração de Natal 3D Papai Noel, Rena e Boneco de Neve",
-   "preco": "R$79,99",
-   "preco_antigo": "",
-   "desconto": "17%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820m6-mtv8d9ccl0xs83",
-   "link": "https://s.shopee.com.br/LoaxJNofq",
-   "url": "https://shopee.com.br/opaanlp/281719451/58219680539?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAzx9w-DspTbDweUilERbN2wpXiYvUa-EKgMQStpGLBvSIMWma7Le_1BoWjw8LZaWJV-UAOoekPl9uyED1Sb5TkFDl_NhNnGm6CnRqZ7aarwddqvbEZLe8T8keQ9kca4dO-mYo9NkGNgAHMPcv5AFVnISAfFxr0cHk6hdBc24q2QzbyUi5f4Lmb9PQNyG8PRuxwybxI&mmp_pid=an_18303930133&uls_trackid=572gjaeo012i&utm_campaign=id_1hNN6AsU1b3&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ft9jhbdzpq3m",
-   "loja": "Shopee",
-   "id": "1793994040417"
-  },
-  {
    "nome": "Capa de Almofada de Natal Luxo - Pinheiros",
    "preco": "R$34,99",
    "preco_antigo": "",
@@ -950,8 +939,16 @@
    "preco": "R$42,99",
    "link": "https://s.shopee.com.br/gRYqJKCbN",
    "loja": "Shopee"
+  },
+  {
+   "id": "1793994040417",
+   "num": 41,
+   "nome": "Kit Decoração de Natal 3D Papai Noel, Rena e Boneco de Neve",
+   "preco": "R$79,99",
+   "link": "https://s.shopee.com.br/LoaxJNofq",
+   "loja": "Shopee"
   }
  ],
- "num": 40,
- "ultimo": "2026-11-14 12"
+ "num": 41,
+ "ultimo": "2026-11-14 15"
 }
