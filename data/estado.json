@@ -212,17 +212,6 @@
    "id": "1794225577035"
   },
   {
-   "nome": "Porta Utensílios e Talheres de Cozinha",
-   "preco": "R$29,81",
-   "preco_antigo": "",
-   "desconto": "28%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820m4-mt6ms6ockoasbe",
-   "link": "https://s.shopee.com.br/8AXWYgNWGd",
-   "url": "https://shopee.com.br/opaanlp/1566610473/58268220530?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAxEFF17Gy5z0q1bwU_0ceMaWIg3pcNvIT-M1OzVz0YsOkXQKR6Ddx5M9UzPVtXGSzf48fyPiIX8AvQnKX_0GYZXyo_S-fUc_cuKGsrsQKOi_JGaL9bUqFPfdRPy5TGiWOgjuoBP-Pps3LGPVB_tdTaHYpflkFRnX3Zegf6yExD51ZUDNOzuha1fgLWbf6yVhZ0_L4XKQw&mmp_pid=an_18303930133&uls_trackid=5736lti501l1&utm_campaign=id_7JvGVOqZFYr&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ftqjazb9rizj",
-   "loja": "Shopee",
-   "id": "1794225581384"
-  },
-  {
    "nome": "Escorredor de Louça Inox 105cm",
    "preco": "R$143,99",
    "preco_antigo": "",
@@ -959,8 +948,16 @@
    "preco": "R$37,99",
    "link": "https://s.shopee.com.br/20wxznw6J9",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794225581384",
+   "num": 38,
+   "nome": "Porta Utensílios e Talheres de Cozinha",
+   "preco": "R$29,81",
+   "link": "https://s.shopee.com.br/8AXWYgNWGd",
+   "loja": "Shopee"
   }
  ],
- "num": 37,
- "ultimo": "2026-11-13 18"
+ "num": 38,
+ "ultimo": "2026-11-13 21"
 }
