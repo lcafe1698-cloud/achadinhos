@@ -443,17 +443,6 @@
    "id": "1794483346739"
   },
   {
-   "nome": "Bolsa Feminina Transversal Tiracolo",
-   "preco": "R$29,90",
-   "preco_antigo": "",
-   "desconto": "67%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mh1xn7prw2knaa",
-   "link": "https://s.shopee.com.br/9KjYjHPiP8",
-   "url": "https://shopee.com.br/opaanlp/1633668448/22599204309?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAzI5bSsnN0QBOPeiIW5JPTXc2IoxwBaMazkz5XTkpcare1T_5qgDXyC1a5gOC6iS-kY9FQzmy54aSod04aSThtp-LvvGl7OStZ4OQ1W4pfsNSpfWFOS80B13uB2VHn-Oh7pFcdoxCJx4-PW8GRIIZSgwwPbs0VCuTRTB2KI4EFpMnbKNtdDA71W5wl3rKMfH7ru4-XGaA&mmp_pid=an_18303930133&uls_trackid=573v8ic700sh&utm_campaign=id_7qVOEPt1har&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fu9cqfhxpadv",
-   "loja": "Shopee",
-   "id": "1794483347948"
-  },
-  {
    "nome": "Prateleira Triangular Adesiva para Banheiro",
    "preco": "R$18,00",
    "preco_antigo": "",
@@ -938,8 +927,16 @@
    "preco": "R$21,99",
    "link": "https://s.shopee.com.br/AUvSvdcT0i",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794483347948",
+   "num": 45,
+   "nome": "Bolsa Feminina Transversal Tiracolo",
+   "preco": "R$29,90",
+   "link": "https://s.shopee.com.br/9KjYjHPiP8",
+   "loja": "Shopee"
   }
  ],
- "num": 44,
- "ultimo": "2026-11-15 09"
+ "num": 45,
+ "ultimo": "2026-11-15 12"
 }
