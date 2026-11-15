@@ -289,17 +289,6 @@
    "id": "1794310101425"
   },
   {
-   "nome": "Brinquedo Pelúcia para Cachorro e Gato",
-   "preco": "R$21,99",
-   "preco_antigo": "",
-   "desconto": "",
-   "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-8260g-mjnurwy1yxoh81",
-   "link": "https://s.shopee.com.br/AUvSvdcT0i",
-   "url": "https://shopee.com.br/opaanlp/954431662/58201497109?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAzMdR1LN3B9duf4aES3zuuYenf2XMR_w4PBTLNawSspSCWbxegQO_vlLoGsSy0HR6cUeHwdKLHqI2rkqHrvXFQkj1I_H5d1uDomIoJBTgWWsbVo1MuMozr_d9eYXXc901ywqU333TS9FtV6Px-xSNRaUcpumaNls1i3jMhJt9VKlMsHCoVSNdwXBlRIDEuCiEUDN_w&mmp_pid=an_18303930133&uls_trackid=573ens05000o&utm_campaign=id_29Qq62bGvUv&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ftwdtuneaf91",
-   "loja": "Shopee",
-   "id": "1794310103451"
-  },
-  {
    "nome": "Osso Mordedor para Cachorro",
    "preco": "R$31,99",
    "preco_antigo": "",
@@ -941,8 +930,16 @@
    "preco": "R$34,99",
    "link": "https://s.shopee.com.br/1BkYiFx3k",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794310103451",
+   "num": 44,
+   "nome": "Brinquedo Pelúcia para Cachorro e Gato",
+   "preco": "R$21,99",
+   "link": "https://s.shopee.com.br/AUvSvdcT0i",
+   "loja": "Shopee"
   }
  ],
- "num": 43,
- "ultimo": "2026-11-14 21"
+ "num": 44,
+ "ultimo": "2026-11-15 09"
 }
