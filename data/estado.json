@@ -58,17 +58,6 @@
    "id": "1793994036362"
   },
   {
-   "nome": "Capa de Almofada de Natal Luxo - Pinheiros",
-   "preco": "R$34,99",
-   "preco_antigo": "",
-   "desconto": "13%",
-   "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-824gr-mpwnu6oo6jgt6d",
-   "link": "https://s.shopee.com.br/1BkYiFx3k",
-   "url": "https://shopee.com.br/opaanlp/577639545/23599550881?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAyGllvyl9NjkGCS9LvjFZYEqGDlIFeBhoc0yKji0J5uJaqU6FXIbohwHbx_Qu_ekG9YfFI0zEX1eqbwouNL1d2K7EJqmnAbuiSzGqWIJ8hrDfqh44XDAUVwndy6PgRrzCVbOITJIITDu5tq17X9twRHUKR1xp5iBOI-QF3Qx9euAgf9Ohab9YvRss1lopwWw0WWHPI&mmp_pid=an_18303930133&uls_trackid=572gjapi00jl&utm_campaign=id_9dPWVUdP0rl&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ft9jhkrxs3b6",
-   "loja": "Shopee",
-   "id": "1793994043914"
-  },
-  {
    "nome": "Presépio de Natal Minimalista com Bandeja e Vela de LED",
    "preco": "R$52,80",
    "preco_antigo": "",
@@ -944,8 +933,16 @@
    "preco": "R$37,99",
    "link": "https://s.shopee.com.br/6L5x9kJWp1",
    "loja": "Shopee"
+  },
+  {
+   "id": "1793994043914",
+   "num": 43,
+   "nome": "Capa de Almofada de Natal Luxo - Pinheiros",
+   "preco": "R$34,99",
+   "link": "https://s.shopee.com.br/1BkYiFx3k",
+   "loja": "Shopee"
   }
  ],
- "num": 42,
- "ultimo": "2026-11-14 18"
+ "num": 43,
+ "ultimo": "2026-11-14 21"
 }
