@@ -14,17 +14,6 @@
    "id": "1793991055535"
   },
   {
-   "nome": "Caneca de Cerâmica Natalina Papai Noel e Boneco de Neve",
-   "preco": "R$34,90",
-   "preco_antigo": "",
-   "desconto": "26%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820li-mty8lghvvev705",
-   "link": "https://s.shopee.com.br/2Vt5WZG9CG",
-   "url": "https://shopee.com.br/opaanlp/1800875490/58269796283?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAwLg7cMqU3UZEy-ya7W74msJqG2BZ69ukb2UfgDc5sGytRLC1JSlnjb8WAm78qZAO6nmlDBEVk30i9US0nrq6nVZMbeTUehBbAZmaU8baL2mjQTouVhUXwWAn4LWLKlw6cNXJJ7zTfMMkNwjkKje_uH75N72jHfspvj9k_R6eF_ReOLY5vONnK1dbSUAUkAaxmHICn9_g&mmp_pid=an_18303930133&uls_trackid=572ga7uv00cc&utm_campaign=id_2kMPEsywmiL&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ft9chrwhdu9y",
-   "loja": "Shopee",
-   "id": "1793991069077"
-  },
-  {
    "nome": "Kit Tábua Petisqueira de Natal para Mesa Posta - Pinheiro, Estrela e Gorro",
    "preco": "R$23,34",
    "preco_antigo": "",
@@ -935,8 +924,16 @@
    "preco": "R$29,90",
    "link": "https://s.shopee.com.br/9KjYjHPiP8",
    "loja": "Shopee"
+  },
+  {
+   "id": "1793991069077",
+   "num": 46,
+   "nome": "Caneca de Cerâmica Natalina Papai Noel e Boneco de Neve",
+   "preco": "R$34,90",
+   "link": "https://s.shopee.com.br/2Vt5WZG9CG",
+   "loja": "Shopee"
   }
  ],
- "num": 45,
- "ultimo": "2026-11-15 12"
+ "num": 46,
+ "ultimo": "2026-11-15 15"
 }
