@@ -36,17 +36,6 @@
    "id": "1793994035273"
   },
   {
-   "nome": "Porta Sabonete/Detergente de Natal em Porcelana",
-   "preco": "R$39,90",
-   "preco_antigo": "",
-   "desconto": "33%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820lm-mub1ng8pyarnbc",
-   "link": "https://s.shopee.com.br/20wowNdXUr",
-   "url": "https://shopee.com.br/opaanlp/349322996/53519237844?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAxusPGhUInq0N_cZ4EfDbF5wWO3-wSHy1ZwMH87nzNRWKyPr1_73dEgELUWzTk5_3F7OdNC4wthKxwAp7OGzUjbIWn5ouG3Wj45rABTcztVFSlKG-GGuECJXDYCbOjTO4mgywOYEvZOnMfgMZDFPBZpY2NGLcfi3rOpEvR3TR5IZ3Vik7ExlaAClXT_rdw5nMxZ9gA&mmp_pid=an_18303930133&uls_trackid=572gja20000p&utm_campaign=id_7ovrckUmHsr&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ft9jgzb9u1d9",
-   "loja": "Shopee",
-   "id": "1793994036362"
-  },
-  {
    "nome": "Presépio de Natal Minimalista com Bandeja e Vela de LED",
    "preco": "R$52,80",
    "preco_antigo": "",
@@ -932,8 +921,16 @@
    "preco": "R$34,90",
    "link": "https://s.shopee.com.br/2Vt5WZG9CG",
    "loja": "Shopee"
+  },
+  {
+   "id": "1793994036362",
+   "num": 47,
+   "nome": "Porta Sabonete/Detergente de Natal em Porcelana",
+   "preco": "R$39,90",
+   "link": "https://s.shopee.com.br/20wowNdXUr",
+   "loja": "Shopee"
   }
  ],
- "num": 46,
- "ultimo": "2026-11-15 15"
+ "num": 47,
+ "ultimo": "2026-11-15 18"
 }
