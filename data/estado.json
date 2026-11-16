@@ -102,17 +102,6 @@
    "id": "1794160520894"
   },
   {
-   "nome": "Kit Potes de Tempero 200ml com Adesivos",
-   "preco": "R$17,89",
-   "preco_antigo": "",
-   "desconto": "58%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-mag1ew7l3z0951",
-   "link": "https://s.shopee.com.br/5q9aaul2b2",
-   "url": "https://shopee.com.br/opaanlp/352620278/22994028773?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAzouZcjoyUz56Yw6-m-bJCquZ3tclVsSxUq3uYvnq7Ly0xD8LklKc3ilhB1KVQ5M1K0kd-GAsPsdT8zsbhfciGIYqRPYGiImD9_mz4bp940SuA2WDlEmmkLmw04iXnVWlJ3QQz2j7m9JE8P6bZK1ni7kUH2GO48VqaooYCFDoixOuKsHXhyTRT4e63Yz7LvFd41XjA&mmp_pid=an_18303930133&uls_trackid=5730fcnk01c5&utm_campaign=id_1WIJHQmA8g9&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ftm2i4r5e9yr",
-   "loja": "Shopee",
-   "id": "1794160525248"
-  },
-  {
    "nome": "Varinha de Pena para Gatos com Catnip",
    "preco": "R$15,99",
    "preco_antigo": "",
@@ -929,8 +918,16 @@
    "preco": "R$39,90",
    "link": "https://s.shopee.com.br/20wowNdXUr",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794160525248",
+   "num": 48,
+   "nome": "Kit Potes de Tempero 200ml com Adesivos",
+   "preco": "R$17,89",
+   "link": "https://s.shopee.com.br/5q9aaul2b2",
+   "loja": "Shopee"
   }
  ],
- "num": 47,
- "ultimo": "2026-11-15 18"
+ "num": 48,
+ "ultimo": "2026-11-15 21"
 }
