@@ -245,17 +245,6 @@
    "id": "1794310101425"
   },
   {
-   "nome": "Osso Mordedor para Cachorro",
-   "preco": "R$31,99",
-   "preco_antigo": "",
-   "desconto": "29%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m3xx5jvujh0b8d",
-   "link": "https://s.shopee.com.br/3g58n5B8wM",
-   "url": "https://shopee.com.br/opaanlp/1048480621/22292608763?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAwN8aEde86I-aUWilOTF5tkP6iZTXVXr9Ybgf1skesCvql0xpvEBpSzesoakjVEVk4ni1UQpGJfWUCIA0Tdj91VZbhr4Xcggb6X23rPjVxN6N40jeteeW5huIDHaMSoMLfTO46cWtnIcMRiBox6q6Y1l6W9pO6-73zmJjEG5t0M-NPNuHCmBxZA3ujBndQhLmRIcxZTFw&mmp_pid=an_18303930133&uls_trackid=573ens3200jp&utm_campaign=id_9XdynQjhPIv&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ftwdtx6fia5d",
-   "loja": "Shopee",
-   "id": "1794310104519"
-  },
-  {
    "nome": "Kit 5 Elásticos Mini Band + Thera Band + Extensor",
    "preco": "R$26,99",
    "preco_antigo": "",
@@ -1033,8 +1022,16 @@
    "preco": "R$98,89",
    "link": "https://s.shopee.com.br/AKbwwLN3Zc",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794310104519",
+   "num": 50,
+   "nome": "Osso Mordedor para Cachorro",
+   "preco": "R$31,99",
+   "link": "https://s.shopee.com.br/3g58n5B8wM",
+   "loja": "Shopee"
   }
  ],
- "num": 49,
- "ultimo": "2026-11-16 15"
+ "num": 50,
+ "ultimo": "2026-11-16 18"
 }
