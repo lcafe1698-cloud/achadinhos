@@ -113,17 +113,6 @@
    "id": "1794160529478"
   },
   {
-   "nome": "Kit 9 Elásticos de Treino Mini Band e Extensor",
-   "preco": "R$51,97",
-   "preco_antigo": "",
-   "desconto": "65%",
-   "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-22110-3ft7znvgmujv93",
-   "link": "https://s.shopee.com.br/9KjSlOep5t",
-   "url": "https://shopee.com.br/opaanlp/343946896/16989674517?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAxFf-gRenc4i-muqeLpcBXAjQMN98ajF3sDv2OVndwrqN-JF90Om5fF0Sm-hiRpZKrV4YVPXZ2jvp44t540mMJ7w-eS3gtD4zXbMJNZd3btRMV_2LxVU6ktT4yKQZqMaGcjUYIaaq8LGYb6ILIwT8bWlJVpoDNhi1xlZ-dNxdb7B4xTTK31JGS-apsM0K2Xts9MY6w&mmp_pid=an_18303930133&uls_trackid=5730fd9400k8&utm_campaign=id_AJZbXm6ButB&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ftm2ijynqde7",
-   "loja": "Shopee",
-   "id": "1794160530859"
-  },
-  {
    "nome": "Fone Bluetooth Miniso X28 com Tradução por IA",
    "preco": "R$119,99",
    "preco_antigo": "",
@@ -1134,8 +1123,16 @@
    "preco": "R$15,99",
    "link": "https://s.shopee.com.br/906cMl7IYC",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794160530859",
+   "num": 53,
+   "nome": "Kit 9 Elásticos de Treino Mini Band e Extensor",
+   "preco": "R$51,97",
+   "link": "https://s.shopee.com.br/9KjSlOep5t",
+   "loja": "Shopee"
   }
  ],
- "num": 52,
- "ultimo": "2026-11-17 09"
+ "num": 53,
+ "ultimo": "2026-11-17 12"
 }
