@@ -91,17 +91,6 @@
    "id": "1794160520894"
   },
   {
-   "nome": "Varinha de Pena para Gatos com Catnip",
-   "preco": "R$15,99",
-   "preco_antigo": "",
-   "desconto": "",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-81ztc-mjs9bx1y8ohtf9",
-   "link": "https://s.shopee.com.br/906cMl7IYC",
-   "url": "https://shopee.com.br/opaanlp/954431662/23994722973?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAwxwJXvTbw8-rI7Ggy5RZHoAr7CUa3r-hZenu9qaJkHYYvWhb--vWj9mZEv-inLPPJblQqrzN0kRphkEdR3q-vfBig_29zsTjW-_yJGXaLAN3eqxBpzvfxss2J8yGJbXW43Hhk9_6KYy5SFSDtlKE1oWN_NSnQRibESWdDYc6ing04nGrJi3o2LRcUmPT1EBHH9_oE&mmp_pid=an_18303930133&uls_trackid=5730fcs701cc&utm_campaign=id_3XVLi03NqoX&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ftm2i8r1i8fy",
-   "loja": "Shopee",
-   "id": "1794160526733"
-  },
-  {
    "nome": "Varinha com Polvo para Gatos",
    "preco": "R$13,99",
    "preco_antigo": "",
@@ -1027,8 +1016,16 @@
    "preco": "R$13,99",
    "link": "https://s.shopee.com.br/1qdT14gQCz",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794160526733",
+   "num": 52,
+   "nome": "Varinha de Pena para Gatos com Catnip",
+   "preco": "R$15,99",
+   "link": "https://s.shopee.com.br/906cMl7IYC",
+   "loja": "Shopee"
   }
  ],
- "num": 51,
- "ultimo": "2026-11-16 21"
+ "num": 52,
+ "ultimo": "2026-11-17 09"
 }
