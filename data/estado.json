@@ -113,17 +113,6 @@
    "id": "1794160529478"
   },
   {
-   "nome": "Fone Bluetooth Miniso X28 com Tradução por IA",
-   "preco": "R$119,99",
-   "preco_antigo": "",
-   "desconto": "60%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820lh-mtnle65d3vnl13",
-   "link": "https://s.shopee.com.br/9KjTwmT9pr",
-   "url": "https://shopee.com.br/opaanlp/1759812559/58210656302?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAxovbmogazUfVbOeNzUX7Ji9tovcxjH0zA1ic734xggf3FSpLZn-fHg4Q7IPYgxvHIomzuMh226peoAqGVPhmIP85bu4Pd4EpawbM7sweiuUiGH1G6Tatj6FL-EHvWDFI2WgsWpBCVBETnMbLMFH9aOQ0ayeMKygzpypf77XcUC6ghnlZ5SnFLp5F4qpzQ7eqiXMuKdDw&mmp_pid=an_18303930133&uls_trackid=5736lt5k00c6&utm_campaign=id_29A3prGyoIn&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ftqjaog7e8xw",
-   "loja": "Shopee",
-   "id": "1794225577035"
-  },
-  {
    "nome": "Escorredor de Louça Inox 105cm",
    "preco": "R$143,99",
    "preco_antigo": "",
@@ -1128,8 +1117,16 @@
    "preco": "R$34,90",
    "link": "https://s.shopee.com.br/1qdeAweR7K",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794225577035",
+   "num": 55,
+   "nome": "Fone Bluetooth Miniso X28 com Tradução por IA",
+   "preco": "R$119,99",
+   "link": "https://s.shopee.com.br/9KjTwmT9pr",
+   "loja": "Shopee"
   }
  ],
- "num": 54,
- "ultimo": "2026-11-17 15"
+ "num": 55,
+ "ultimo": "2026-11-17 18"
 }
