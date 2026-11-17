@@ -498,17 +498,6 @@
    "id": "1794830059518"
   },
   {
-   "nome": "Fone Bluetooth Gatinho com LED",
-   "preco": "R$34,90",
-   "preco_antigo": "",
-   "desconto": "42%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820m3-mq3owa4pflkycc",
-   "link": "https://s.shopee.com.br/1qdeAweR7K",
-   "url": "https://shopee.com.br/opaanlp/1509843863/42269095493?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAyJe6Zp5tcatplOUTqIiHqt2NZc2_f-dF6glbU2lkunoWTInVr3dWcdeqRMutpXOfJpNdfviRQTuz3Trl_bPw540KjT0oX0BE5DulWJtTlWqMO0yBthgh-gDGolb8S0sbMNmMd86xvtrbLTTDHaPfDsd8AKya2W0KYAmD2r8bnQYXNv2M3ZUSv9SCHgGxa7kMrJRyHcCA&mmp_pid=an_18303930133&uls_trackid=5750al3k00c5&utm_campaign=id_55BTU2uojaL&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fuyb2kchc688",
-   "loja": "Shopee",
-   "id": "1794830061297"
-  },
-  {
    "nome": "Colmeia Organizadora de Gavetas",
    "preco": "R$10,90",
    "preco_antigo": "",
@@ -1131,8 +1120,16 @@
    "preco": "R$51,97",
    "link": "https://s.shopee.com.br/9KjSlOep5t",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794830061297",
+   "num": 54,
+   "nome": "Fone Bluetooth Gatinho com LED",
+   "preco": "R$34,90",
+   "link": "https://s.shopee.com.br/1qdeAweR7K",
+   "loja": "Shopee"
   }
  ],
- "num": 53,
- "ultimo": "2026-11-17 12"
+ "num": 54,
+ "ultimo": "2026-11-17 15"
 }
