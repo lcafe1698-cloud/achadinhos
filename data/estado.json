@@ -80,17 +80,6 @@
    "id": "1793999237804"
   },
   {
-   "nome": "Fone de Condução Óssea Bluetooth Esportivo",
-   "preco": "R$42,99",
-   "preco_antigo": "",
-   "desconto": "64%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820md-msfchkqc38xw4f",
-   "link": "https://s.shopee.com.br/8fTly4svb8",
-   "url": "https://shopee.com.br/opaanlp/1847606927/58216872655?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAy6hS_mOPIYyNP2ihzK2wMfouiWVmF9cDcDaecWId95j2WhVoANKDuad7q9SkdBUi77iBghlPYUjimIir5O34fZtgCGuBdmadjVoJi1EXgUJkwUlxr78IR1DMA5GY-VC398Oq0JlTqlvkqX39O1iEPPQT4a79iMSoUJXGqNLubk8KTxU-SJf1K72k4Nth8W_fd5wSfviA&mmp_pid=an_18303930133&uls_trackid=5730fc9d00c5&utm_campaign=id_1vEA9435jCX&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ftm2hrdqxrbh",
-   "loja": "Shopee",
-   "id": "1794160520894"
-  },
-  {
    "nome": "Varinha com Polvo para Gatos",
    "preco": "R$13,99",
    "preco_antigo": "",
@@ -1122,8 +1111,16 @@
    "preco": "R$60,00",
    "link": "https://s.shopee.com.br/AUvSvbz8V4",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794160520894",
+   "num": 57,
+   "nome": "Fone de Condução Óssea Bluetooth Esportivo",
+   "preco": "R$42,99",
+   "link": "https://s.shopee.com.br/8fTly4svb8",
+   "loja": "Shopee"
   }
  ],
- "num": 56,
- "ultimo": "2026-11-17 21"
+ "num": 57,
+ "ultimo": "2026-11-18 09"
 }
