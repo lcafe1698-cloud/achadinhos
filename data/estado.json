@@ -256,17 +256,6 @@
    "id": "1794400565027"
   },
   {
-   "nome": "Garrafa Térmica Inox Watersy 500ml",
-   "preco": "R$29,99",
-   "preco_antigo": "",
-   "desconto": "60%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820me-mtyqwdyxm0ao96",
-   "link": "https://s.shopee.com.br/1LhFdcoqHL",
-   "url": "https://shopee.com.br/opaanlp/472202601/58201698463?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAxW7LApnaRT9oBdcosBXRkNaFGYF9ijDNGcWPQscMvIDXm8DptvmnHGEhfAFPEN9ItI6H1xVWbbTH_DHIZhNXYfxYyonWHXT3oU6A9riiCHXwc3MN0JCzppi6zoOToz7qcYZ5hjhnS34KPRrx9NU-qapiTkpUXFRySYdZH3IY2NlNh6Qa_t--gMYujXmk0NGnC68tA&mmp_pid=an_18303930133&uls_trackid=573nbu7d01cc&utm_campaign=id_5VfxxwPQW8H&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fu3natmots9h",
-   "loja": "Shopee",
-   "id": "1794400566024"
-  },
-  {
    "nome": "Marca Texto Colorido Pincel",
    "preco": "R$16,80",
    "preco_antigo": "",
@@ -1116,8 +1105,16 @@
    "preco": "R$13,07",
    "link": "https://s.shopee.com.br/1gKDygMjyQ",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794400566024",
+   "num": 59,
+   "nome": "Garrafa Térmica Inox Watersy 500ml",
+   "preco": "R$29,99",
+   "link": "https://s.shopee.com.br/1LhFdcoqHL",
+   "loja": "Shopee"
   }
  ],
- "num": 58,
- "ultimo": "2026-11-18 12"
+ "num": 59,
+ "ultimo": "2026-11-18 15"
 }
