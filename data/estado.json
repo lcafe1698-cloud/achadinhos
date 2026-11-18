@@ -421,17 +421,6 @@
    "id": "1794569584926"
   },
   {
-   "nome": "Garrafa Térmica Inox 500ml Watersy",
-   "preco": "R$29,99",
-   "preco_antigo": "",
-   "desconto": "60%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820md-mvfqe22ocnwjbe",
-   "link": "https://s.shopee.com.br/2gCgNt3bpj",
-   "url": "https://shopee.com.br/opaanlp/472202601/58201698463?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAyz8vhPg06nqC1EDjOtRfAW-w6IsEuXQTp9dYg6QfPg6V1tXpYqtBw6e0ZsWN28oqlFAM9QHVcrlddYgL6biEG0AWssz9AIix-PfK4s8ydY1OXxjZM_ga8s4bNasm7X0_q0A_5L9WAEg6JtnLiRCcdRSI734nGg0g78wqu4af2kL8iiMi0cYDzuCp0D0pbk3-J06rQ&mmp_pid=an_18303930133&uls_trackid=5747fo3700br&utm_campaign=id_3H8J5q77bp3&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fufba3qd784f",
-   "loja": "Shopee",
-   "id": "1794569589081"
-  },
-  {
    "nome": "Garrafa Squeeze Motivacional 2 Litros",
    "preco": "R$26,90",
    "preco_antigo": "",
@@ -1113,8 +1102,16 @@
    "preco": "R$29,99",
    "link": "https://s.shopee.com.br/1LhFdcoqHL",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794569589081",
+   "num": 60,
+   "nome": "Garrafa Térmica Inox 500ml Watersy",
+   "preco": "R$29,99",
+   "link": "https://s.shopee.com.br/2gCgNt3bpj",
+   "loja": "Shopee"
   }
  ],
- "num": 59,
- "ultimo": "2026-11-18 15"
+ "num": 60,
+ "ultimo": "2026-11-18 18"
 }
