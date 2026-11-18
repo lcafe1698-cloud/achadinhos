@@ -487,17 +487,6 @@
    "id": "1794830064174"
   },
   {
-   "nome": "Brinquedo Interativo para Gatos",
-   "preco": "R$13,07",
-   "preco_antigo": "",
-   "desconto": "50%",
-   "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-823qb-mp9bm8mcy9e45d",
-   "link": "https://s.shopee.com.br/1gKDygMjyQ",
-   "url": "https://shopee.com.br/opaanlp/1804059382/46212121575?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAyG6ZzZ__c3p0T3cz8nPvcZKRNGefDmtjt1qVPGhiQliJYSwoknD749eIcMT-uEzrXVTf2yA0RFP2MCrCZIhNixx_YnBKVgYI-x5YCqWnkE1ovuxnEp2DVlx6bGTcP0QKjblR9P8iGquRCEtRCzVaC0TD_eUDyoWCWEsAS6Jq4GMZNQnREa9gktVPwdmNgURjUO5OvgNw&mmp_pid=an_18303930133&uls_trackid=5750algu01l7&utm_campaign=id_7KDifrcnWXx&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fuyb2wwu6ocd",
-   "loja": "Shopee",
-   "id": "1794830065562"
-  },
-  {
    "nome": "Kit 12 Mordedores para Cachorro",
    "preco": "R$38,40",
    "preco_antigo": "",
@@ -1119,8 +1108,16 @@
    "preco": "R$42,99",
    "link": "https://s.shopee.com.br/8fTly4svb8",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794830065562",
+   "num": 58,
+   "nome": "Brinquedo Interativo para Gatos",
+   "preco": "R$13,07",
+   "link": "https://s.shopee.com.br/1gKDygMjyQ",
+   "loja": "Shopee"
   }
  ],
- "num": 57,
- "ultimo": "2026-11-18 09"
+ "num": 58,
+ "ultimo": "2026-11-18 12"
 }
