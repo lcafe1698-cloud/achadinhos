@@ -190,17 +190,6 @@
    "id": "1794310100241"
   },
   {
-   "nome": "Kit Skin Care Anti Oleosidade + Anti Acne (8 itens)",
-   "preco": "R$60,00",
-   "preco_antigo": "",
-   "desconto": "",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-lqweswz7ebsr37",
-   "link": "https://s.shopee.com.br/AUvSvbz8V4",
-   "url": "https://shopee.com.br/opaanlp/226389632/20999093340?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAyMhc8dDTBa5Oww8oAkf_1DAG5PDzuwCZa2UR_lPdjbvEW4kICpqx1Qx2GPVaLeT0u7VANvChZV6GyCLR4z73g7SznnL5w2lvsFjCx6IQHAF3D4m6yYEiIqIa2_sS6JvmFBSHyQM0w9ch3Fw7ZINEIxt7h3FaKH-g_prOai4nYVoapsdFEjyhwRY90UdHexM70H9s0&mmp_pid=an_18303930133&uls_trackid=573enrp700jp&utm_campaign=id_4sNof50mQUb&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ftwdtomtzqfd",
-   "loja": "Shopee",
-   "id": "1794310101425"
-  },
-  {
    "nome": "Kit 5 Elásticos Mini Band + Thera Band + Extensor",
    "preco": "R$26,99",
    "preco_antigo": "",
@@ -1125,8 +1114,16 @@
    "preco": "R$119,99",
    "link": "https://s.shopee.com.br/9KjTwmT9pr",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794310101425",
+   "num": 56,
+   "nome": "Kit Skin Care Anti Oleosidade + Anti Acne (8 itens)",
+   "preco": "R$60,00",
+   "link": "https://s.shopee.com.br/AUvSvbz8V4",
+   "loja": "Shopee"
   }
  ],
- "num": 55,
- "ultimo": "2026-11-17 18"
+ "num": 56,
+ "ultimo": "2026-11-17 21"
 }
