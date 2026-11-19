@@ -179,17 +179,6 @@
    "id": "1794310100241"
   },
   {
-   "nome": "Kit 5 Elásticos Mini Band + Thera Band + Extensor",
-   "preco": "R$26,99",
-   "preco_antigo": "",
-   "desconto": "46%",
-   "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-7rbnh-lnof01j91jxtf3",
-   "link": "https://s.shopee.com.br/6fikMcPiTf",
-   "url": "https://shopee.com.br/opaanlp/1107305320/22492641760?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAy0J22v0r4-QJWg5Bf4UMYuNdrxsnm0Jj1kU95Gye5xecgbUU2u7jS8-hTDLYk8p6uSbRI2E_LH1R14FpfmVCd4sp3c_qJUWbStNmfRQ8FMy81WKUFYM2w3vz-1P7w_YhtSipLtlftzNLoEMMo2lVRDlsTyqftlGFcs_JtdsB272jzPm4bhVFHuWxwBuNr0cPY_8j0YCw&mmp_pid=an_18303930133&uls_trackid=573ens6e00br&utm_campaign=id_2kM2deCElXd&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ftwdu137vmm1",
-   "loja": "Shopee",
-   "id": "1794310105432"
-  },
-  {
    "nome": "Elástico Extensor Pull Reducer Multifunção",
    "preco": "R$23,90",
    "preco_antigo": "",
@@ -1110,8 +1099,16 @@
    "preco": "R$29,99",
    "link": "https://s.shopee.com.br/2gCgNt3bpj",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794310105432",
+   "num": 61,
+   "nome": "Kit 5 Elásticos Mini Band + Thera Band + Extensor",
+   "preco": "R$26,99",
+   "link": "https://s.shopee.com.br/6fikMcPiTf",
+   "loja": "Shopee"
   }
  ],
- "num": 60,
- "ultimo": "2026-11-18 18"
+ "num": 61,
+ "ultimo": "2026-11-18 21"
 }
