@@ -641,17 +641,6 @@
    "id": "1795088718949"
   },
   {
-   "nome": "Osso Mordedor para Cachorro",
-   "preco": "R$31,99",
-   "preco_antigo": "",
-   "desconto": "29%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m3xx5jvujh0b8d",
-   "link": "https://s.shopee.com.br/7puw6agSwB",
-   "url": "https://shopee.com.br/opaanlp/1048480621/22292608763?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAwRBOL0xc7hyvBYcxvPN1QBaxbpBcF7q-_5bMs78QG15cEx-Bk0hK6-SgIVEcunY1fcrvCqjoyjUQGMQiMQGGvH3yXybvD-ALXH5JqSDJFYxLFyuJIRPUpCCqDs92Ef1Zm0E42s2OE15deL9ex6ldfaLUpFozRW98BgfNJTV4NJBHmBh_M21Rhalj09TY79cZ1So1mXMg&mmp_pid=an_18303930133&uls_trackid=575p00op00k8&utm_campaign=id_8Ghg1kUW85J&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fvh6k23ro8h5",
-   "loja": "Shopee",
-   "id": "1795088723752"
-  },
-  {
    "nome": "Colmeia Organizadora de Gavetas",
    "preco": "R$10,90",
    "preco_antigo": "",
@@ -1214,8 +1203,16 @@
    "preco": "R$26,90",
    "link": "https://s.shopee.com.br/2gCgNt80cJ",
    "loja": "Shopee"
+  },
+  {
+   "id": "1795088723752",
+   "num": 63,
+   "nome": "Osso Mordedor para Cachorro",
+   "preco": "R$31,99",
+   "link": "https://s.shopee.com.br/7puw6agSwB",
+   "loja": "Shopee"
   }
  ],
- "num": 62,
- "ultimo": "2026-11-19 09"
+ "num": 63,
+ "ultimo": "2026-11-19 12"
 }
