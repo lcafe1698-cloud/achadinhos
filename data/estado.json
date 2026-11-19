@@ -619,17 +619,6 @@
    "id": "1795088714262"
   },
   {
-   "nome": "Brinquedo de Pelúcia para Cachorro e Gato",
-   "preco": "R$21,99",
-   "preco_antigo": "",
-   "desconto": "",
-   "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-8260g-mjnurwy1yxoh81",
-   "link": "https://s.shopee.com.br/9fMaHxQkyI",
-   "url": "https://shopee.com.br/opaanlp/954431662/58201497109?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAyZ72kggPGSqSDkzQNjDksjdqDaIowyMlvnkaEJcA3X1HwgeUioEoBPtJEKcu52eJxL8tMxtm1SWtEYgLoEWt-EaTvO5Iqv-kcUsF5AesQvmk44_bY8-2Riuip6umvtQFNPtEhBPFpOgxVKxUDdq1Wvt_QX4MtFmYDDs64bAZpS3OVJMw2xVs9tAS_TLJwMbLXc28Y&mmp_pid=an_18303930133&uls_trackid=575p009u00sh&utm_campaign=id_83E5aodNxrF&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fvh6jo9rs399",
-   "loja": "Shopee",
-   "id": "1795088718949"
-  },
-  {
    "nome": "Colmeia Organizadora de Gavetas",
    "preco": "R$10,90",
    "preco_antigo": "",
@@ -1208,8 +1197,16 @@
    "preco": "R$18,88",
    "link": "https://s.shopee.com.br/906iKhLhxN",
    "loja": "Shopee"
+  },
+  {
+   "id": "1795088718949",
+   "num": 65,
+   "nome": "Brinquedo de Pelúcia para Cachorro e Gato",
+   "preco": "R$21,99",
+   "link": "https://s.shopee.com.br/9fMaHxQkyI",
+   "loja": "Shopee"
   }
  ],
- "num": 64,
- "ultimo": "2026-11-19 15"
+ "num": 65,
+ "ultimo": "2026-11-19 18"
 }
