@@ -311,17 +311,6 @@
    "id": "1794483350001"
   },
   {
-   "nome": "Prateleira Organizadora Adesiva Porta Shampoo",
-   "preco": "R$18,88",
-   "preco_antigo": "",
-   "desconto": "40%",
-   "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-7rd3y-luya8se2jp6xd0",
-   "link": "https://s.shopee.com.br/906iKhLhxN",
-   "url": "https://shopee.com.br/opaanlp/1238100737/23697488813?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAxyVTdrDvnqHQvKWxex6UJXmWwhstcO3sqRhODDl1udQfYxtVnK7IuWdsL-o_XhgKjvBAHI4vBFrP9UVueNuW5NmhIUhLMyefbBiJyu8eE4b5msayXEdt2-0jlhUdyXRTJ-cltcVoG_v9QgSXCRBDeYAblxzptTpjXSB4Qwfd5k_SL1KLoWPK0cQZdQ4_O2Sz-igjxobA&mmp_pid=an_18303930133&uls_trackid=573v8imb01c3&utm_campaign=id_2DczW0dpsFF&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fu9cqpbv7d75",
-   "loja": "Shopee",
-   "id": "1794483351028"
-  },
-  {
    "nome": "Marca Texto Colorido Pincel",
    "preco": "R$16,80",
    "preco_antigo": "",
@@ -1211,8 +1200,16 @@
    "preco": "R$31,99",
    "link": "https://s.shopee.com.br/7puw6agSwB",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794483351028",
+   "num": 64,
+   "nome": "Prateleira Organizadora Adesiva Porta Shampoo",
+   "preco": "R$18,88",
+   "link": "https://s.shopee.com.br/906iKhLhxN",
+   "loja": "Shopee"
   }
  ],
- "num": 63,
- "ultimo": "2026-11-19 12"
+ "num": 64,
+ "ultimo": "2026-11-19 15"
 }
