@@ -410,17 +410,6 @@
    "id": "1794569584926"
   },
   {
-   "nome": "Garrafa Squeeze Motivacional 2 Litros",
-   "preco": "R$26,90",
-   "preco_antigo": "",
-   "desconto": "",
-   "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-7qvei-lgpi106vogmbd6",
-   "link": "https://s.shopee.com.br/2gCgNt80cJ",
-   "url": "https://shopee.com.br/opaanlp/832676963/23391200508?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAyyUECOOI5JxeRbyfffsdoKdyCR4lEG9xJPKSWwuMa3Gsa2K_hg2ifYjb6d9OH4ByRVdSHBqp9uSvCIwzkJl_dpZJ5Z7Il8w2MQqWO0QKn71xChSgNghbHvjOWO6SStA5ar_MSYf1eJ3CTjo8A8zS-GKWhN4ftSSkQ2VWhiUdNCSS23aXKVkbtAZxLYyXMsxCrMQr8&mmp_pid=an_18303930133&uls_trackid=5747fog7000p&utm_campaign=id_8EMQlmjmhZp&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fufbaf1ka9nw",
-   "loja": "Shopee",
-   "id": "1794569593272"
-  },
-  {
    "nome": "Fone Bluetooth Condução Óssea Esportivo",
    "preco": "R$42,99",
    "preco_antigo": "",
@@ -1217,8 +1206,16 @@
    "preco": "R$26,99",
    "link": "https://s.shopee.com.br/6fikMcPiTf",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794569593272",
+   "num": 62,
+   "nome": "Garrafa Squeeze Motivacional 2 Litros",
+   "preco": "R$26,90",
+   "link": "https://s.shopee.com.br/2gCgNt80cJ",
+   "loja": "Shopee"
   }
  ],
- "num": 61,
- "ultimo": "2026-11-18 21"
+ "num": 62,
+ "ultimo": "2026-11-19 09"
 }
