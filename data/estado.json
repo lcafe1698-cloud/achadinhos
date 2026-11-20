@@ -289,17 +289,6 @@
    "id": "1794483350001"
   },
   {
-   "nome": "Marca Texto Colorido Pincel",
-   "preco": "R$16,80",
-   "preco_antigo": "",
-   "desconto": "16%",
-   "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-8258o-mrmawh6ztnnqe7",
-   "link": "https://s.shopee.com.br/7VHuXnhuRC",
-   "url": "https://shopee.com.br/opaanlp/1412842876/23793862596?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAyY-YW5vj3cjR6ZJ28tqQ3P4GQkuBhSB1caf5ZzovaeBzqbX10S0R2KDU7F5uaULNK06GudwLu4sFs18xnGn-3OM4Zk-7yrI4uw6_e_qsb4F6u_pnJBNhlpIjL86ZqWfsbiDzA5WadCKClYfX6-tYJdat8uJSt3jFD8CTEWVjHQak0demlpJJf8PxBHSmo3GGRVObxY1w&mmp_pid=an_18303930133&uls_trackid=573v8iph00sh&utm_campaign=id_A2ECXPawyJ7&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fu9cqs3r7imm",
-   "loja": "Shopee",
-   "id": "1794483352284"
-  },
-  {
    "nome": "Fone Bluetooth Gatinho com LED",
    "preco": "R$34,90",
    "preco_antigo": "",
@@ -1199,8 +1188,16 @@
    "preco": "R$34,90",
    "link": "https://s.shopee.com.br/2qW3QGdVKh",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794483352284",
+   "num": 68,
+   "nome": "Marca Texto Colorido Pincel",
+   "preco": "R$16,80",
+   "link": "https://s.shopee.com.br/7VHuXnhuRC",
+   "loja": "Shopee"
   }
  ],
- "num": 67,
- "ultimo": "2026-11-20 09"
+ "num": 68,
+ "ultimo": "2026-11-20 12"
 }
