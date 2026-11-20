@@ -179,17 +179,6 @@
    "id": "1794310106510"
   },
   {
-   "nome": "Fone Gatinho LED Sem Fio",
-   "preco": "R$34,90",
-   "preco_antigo": "",
-   "desconto": "42%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820m3-mq3owa4pflkycc",
-   "link": "https://s.shopee.com.br/2qW3QGdVKh",
-   "url": "https://shopee.com.br/opaanlp/1509843863/42269095493?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAwM7Iduet92OAPGj3Csv9KiQuu45_vmw8_VALTutUsu5qXNIxjISbRYWVlyK6Lr0K5hZJ-nyIwuukFbKwOF_rbl1nFcqeJ8afcj7lAvdGHRBozn6to7--3kmBX3pdbgu_14O6-D7z7G_mTaN86UDNX_IUhTC7PKFTXeOKSTD3cPmKLybW54FNz3PEsN3NOb4pVGzws-yg&mmp_pid=an_18303930133&uls_trackid=573nbtad00c1&utm_campaign=id_2CY3KZbhHvN&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fu3na3dmzg8f",
-   "loja": "Shopee",
-   "id": "1794400556747"
-  },
-  {
    "nome": "Brinquedo para Cachorro e Gato",
    "preco": "R$21,99",
    "preco_antigo": "",
@@ -1202,8 +1191,16 @@
    "preco": "R$23,34",
    "link": "https://s.shopee.com.br/gRRLvDsxQ",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794400556747",
+   "num": 67,
+   "nome": "Fone Gatinho LED Sem Fio",
+   "preco": "R$34,90",
+   "link": "https://s.shopee.com.br/2qW3QGdVKh",
+   "loja": "Shopee"
   }
  ],
- "num": 66,
- "ultimo": "2026-11-19 21"
+ "num": 67,
+ "ultimo": "2026-11-20 09"
 }
