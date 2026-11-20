@@ -14,17 +14,6 @@
    "id": "1793991055535"
   },
   {
-   "nome": "Kit Tábua Petisqueira de Natal para Mesa Posta - Pinheiro, Estrela e Gorro",
-   "preco": "R$23,34",
-   "preco_antigo": "",
-   "desconto": "47%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134201-820ly-mqysq3ob48p2d8",
-   "link": "https://s.shopee.com.br/gRRLvDsxQ",
-   "url": "https://shopee.com.br/opaanlp/864924353/58250458530?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAxG7JMMOoesRO8O1E0XUTmffLhzRjFOJm72owBNZzPJFZfR7ZPG0XiPvxRnN9EC2Z9HtXqkq6arHn_k_v4f_jGuldQzY9locpb9l-7AwBYelLg2r5zllooWArEDHHQQ0sh27J9Zn7HOcOFk9CHD0qbNK5aIhOtWKHkyoogHnryupRB1jYM8WnTGCbuZ2fx1p6qQ1Bs&mmp_pid=an_18303930133&uls_trackid=572gj9pp00f4&utm_campaign=id_2Xalyl4VNev&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ft9jgs7556ib",
-   "loja": "Shopee",
-   "id": "1793994034069"
-  },
-  {
    "nome": "Conjunto de Garfo e Colher de Natal em Aço Inox (2/4/6 peças)",
    "preco": "R$15,00",
    "preco_antigo": "",
@@ -1205,8 +1194,16 @@
    "preco": "R$21,99",
    "link": "https://s.shopee.com.br/9fMaHxQkyI",
    "loja": "Shopee"
+  },
+  {
+   "id": "1793994034069",
+   "num": 66,
+   "nome": "Kit Tábua Petisqueira de Natal para Mesa Posta - Pinheiro, Estrela e Gorro",
+   "preco": "R$23,34",
+   "link": "https://s.shopee.com.br/gRRLvDsxQ",
+   "loja": "Shopee"
   }
  ],
- "num": 65,
- "ultimo": "2026-11-19 18"
+ "num": 66,
+ "ultimo": "2026-11-19 21"
 }
