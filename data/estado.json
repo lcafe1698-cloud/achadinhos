@@ -69,17 +69,6 @@
    "id": "1793999237804"
   },
   {
-   "nome": "Varinha com Polvo para Gatos",
-   "preco": "R$13,99",
-   "preco_antigo": "",
-   "desconto": "",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-81ztc-mjs3ost4lb7q2b",
-   "link": "https://s.shopee.com.br/7KyONhQqHm",
-   "url": "https://shopee.com.br/opaanlp/954431662/58201622757?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAyhVdQu7eKyZJOO1DXlOAaU-f8PGk460GcR0NecqEEeKHpM6oqK8KKVbCwVRyVv2eYOrRYFtLkxyb7spA0es52mr6er0HXqamqHrTdXYhvZhBnB0szINVgkDg9xWrrQTmSGvcpYL41IVWDR2Sr4SSo0Z_oDA4lTxlRy3dK4vTUH3bg-c7cIl7gyV3IB9pM8dmStve0&mmp_pid=an_18303930133&uls_trackid=5730fd0d00k8&utm_campaign=id_3T8eqUDXjgT&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ftm2icdj1tq6",
-   "loja": "Shopee",
-   "id": "1794160528093"
-  },
-  {
    "nome": "Kit 5 Faixas Elásticas para Exercícios",
    "preco": "R$13,50",
    "preco_antigo": "",
@@ -1193,8 +1182,16 @@
    "preco": "R$39,99",
    "link": "https://s.shopee.com.br/3LSLaEZh0D",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794160528093",
+   "num": 70,
+   "nome": "Varinha com Polvo para Gatos",
+   "preco": "R$13,99",
+   "link": "https://s.shopee.com.br/7KyONhQqHm",
+   "loja": "Shopee"
   }
  ],
- "num": 69,
- "ultimo": "2026-11-20 15"
+ "num": 70,
+ "ultimo": "2026-11-20 18"
 }
