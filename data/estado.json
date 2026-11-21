@@ -344,17 +344,6 @@
    "id": "1794830062765"
   },
   {
-   "nome": "Kit 12 Colmeias Organizadoras Baby",
-   "preco": "R$96,99",
-   "preco_antigo": "",
-   "desconto": "51%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134201-820lo-mqxfzuzat1qd23",
-   "link": "https://s.shopee.com.br/30pbZ70Ov3",
-   "url": "https://shopee.com.br/opaanlp/738897464/19761639478?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAx9LTEaWPeAU6e-Yvr8gI_JX2PlCS9froLhzb1pUT6AunoqqlaDAzpHC4e-sebHo7A7gon2nGsiHmPW_UjTo1ekDTLZOS-cxS5a81qvOmD1sRGz4aoR697LLM5RQkE3Ydv4cAKCE_TEOT437wC8BuTEgOCAiE4hdxI8naFt9fxhXJi9G23m0DewlilbvT_ily1VT4g&mmp_pid=an_18303930133&uls_trackid=5750alcf00c6&utm_campaign=id_5lP9RKT9NOz&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fuyb2t2uezfq",
-   "loja": "Shopee",
-   "id": "1794830064174"
-  },
-  {
    "nome": "Kit 12 Mordedores para Cachorro",
    "preco": "R$38,40",
    "preco_antigo": "",
@@ -1184,8 +1173,16 @@
    "preco": "R$25,00",
    "link": "https://s.shopee.com.br/1gK2om37jx",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794830064174",
+   "num": 73,
+   "nome": "Kit 12 Colmeias Organizadoras Baby",
+   "preco": "R$96,99",
+   "link": "https://s.shopee.com.br/30pbZ70Ov3",
+   "loja": "Shopee"
   }
  ],
- "num": 72,
- "ultimo": "2026-11-21 09"
+ "num": 73,
+ "ultimo": "2026-11-21 12"
 }
