@@ -80,17 +80,6 @@
    "id": "1794225585580"
   },
   {
-   "nome": "Kit 3 Varinhas de Pena com Sino para Gatos",
-   "preco": "R$25,00",
-   "preco_antigo": "",
-   "desconto": "37%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m14rbswmlbwwbd",
-   "link": "https://s.shopee.com.br/1gK2om37jx",
-   "url": "https://shopee.com.br/opaanlp/345223833/23493129043?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAyQGTZnnewH9d5R-AuBzQ6uJyJrDNWIwlbgNmhiHQA085_9iFqrlhgW4lOCSk1QIQrEhwdXPWaWf9tBdPGiVdj7V2NqbXkfpcA2IVn950hF1MOmwx_DoCvWEo2k9GHPVSVNTTiMAojWhOv8CyU8dO7BemJfVPui95N2Ar7G1OtzBiiIotzl6rZxKsYF-ma_4sak-y4&mmp_pid=an_18303930133&uls_trackid=5736lura01cc&utm_campaign=id_5jbvI35q55x&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ftqjc23kqcz3",
-   "loja": "Shopee",
-   "id": "1794225594736"
-  },
-  {
    "nome": "Kit Pincéis de Maquiagem Profissional",
    "preco": "R$35,64",
    "preco_antigo": "",
@@ -1187,8 +1176,16 @@
    "preco": "R$52,80",
    "link": "https://s.shopee.com.br/70LUta6ph2",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794225594736",
+   "num": 72,
+   "nome": "Kit 3 Varinhas de Pena com Sino para Gatos",
+   "preco": "R$25,00",
+   "link": "https://s.shopee.com.br/1gK2om37jx",
+   "loja": "Shopee"
   }
  ],
- "num": 71,
- "ultimo": "2026-11-20 21"
+ "num": 72,
+ "ultimo": "2026-11-21 09"
 }
