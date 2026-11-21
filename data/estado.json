@@ -113,17 +113,6 @@
    "id": "1794310096886"
   },
   {
-   "nome": "Fone Bluetooth Condução Óssea Esportivo",
-   "preco": "R$42,99",
-   "preco_antigo": "",
-   "desconto": "64%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820md-msfchkqc38xw4f",
-   "link": "https://s.shopee.com.br/2qW1nTKOJ0",
-   "url": "https://shopee.com.br/opaanlp/1847606927/58216872655?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAy5dGW9aB9dosV0iVYqgxEb7Zmav9WGU12yKkFnYOFLM0r8AVtUNZmklwxkbZMQ465ZgLMkc8XLXX9BE3OGAEQFKpaOSspGVrW_VKXBTZNBvkaMMsWMG7w2MBQLplrE-i9VbPgrhCXUSykyprM8Htl4LDfoOLDc1BWEid-eH7cZxkhyUoE8Sevfq49hcSjCZdpHM6RNOA&mmp_pid=an_18303930133&uls_trackid=573enrf501bt&utm_campaign=id_5lS26H2MJaT&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ftwdtevy3ne4",
-   "loja": "Shopee",
-   "id": "1794310098217"
-  },
-  {
    "nome": "Escorredor de Louça Inox 105cm com Prateleira",
    "preco": "R$143,99",
    "preco_antigo": "",
@@ -1178,8 +1167,16 @@
    "preco": "R$49,70",
    "link": "https://s.shopee.com.br/AKcCIebGey",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794310098217",
+   "num": 75,
+   "nome": "Fone Bluetooth Condução Óssea Esportivo",
+   "preco": "R$42,99",
+   "link": "https://s.shopee.com.br/2qW1nTKOJ0",
+   "loja": "Shopee"
   }
  ],
- "num": 74,
- "ultimo": "2026-11-21 15"
+ "num": 75,
+ "ultimo": "2026-11-21 18"
 }
