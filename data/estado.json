@@ -179,17 +179,6 @@
    "id": "1794483341200"
   },
   {
-   "nome": "Kit Marca Texto com Borracha na Ponta",
-   "preco": "R$24,79",
-   "preco_antigo": "",
-   "desconto": "38%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-81ztc-mj5vhvoz4u0z0e",
-   "link": "https://s.shopee.com.br/5VWqA8P8Mn",
-   "url": "https://shopee.com.br/opaanlp/431883127/58202542595?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAwRXuaU8_UT2QaXY0XCrjBDBk8fGOgzkDyFyXrKUWudZeI5FbALuAP1u2Y307g0cCbHg7QDrnaGPnHjaPFYSUWM7NUL4GSWlq7mTLbpuqnddKMCYZIWL_bTvcaRDPQAyyAchGEFbQDnK_3IqKSQV5eDdsXP7XprH_uhrbV-w_EO5zP5P4bv8GptdxrcrlFjw6A1o-Q&mmp_pid=an_18303930133&uls_trackid=573v8hqu00l1&utm_campaign=id_4pGu8tbhv4j&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fu9cpzhzqo99",
-   "loja": "Shopee",
-   "id": "1794483342355"
-  },
-  {
    "nome": "Prateleira Triangular Adesiva para Banheiro",
    "preco": "R$18,00",
    "preco_antigo": "",
@@ -1163,8 +1152,16 @@
    "preco": "R$29,93",
    "link": "https://s.shopee.com.br/7Af49ErB57",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794483342355",
+   "num": 80,
+   "nome": "Kit Marca Texto com Borracha na Ponta",
+   "preco": "R$24,79",
+   "link": "https://s.shopee.com.br/5VWqA8P8Mn",
+   "loja": "Shopee"
   }
  ],
- "num": 79,
- "ultimo": "2026-11-22 15"
+ "num": 80,
+ "ultimo": "2026-11-22 18"
 }
