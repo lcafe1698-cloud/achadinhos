@@ -322,17 +322,6 @@
    "id": "1794830066960"
   },
   {
-   "nome": "Kit Pincéis de Maquiagem de Viagem com Espelho",
-   "preco": "R$49,86",
-   "preco_antigo": "",
-   "desconto": "64%",
-   "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-824i7-mpvyc5k1375s09",
-   "link": "https://s.shopee.com.br/40i8kzZJdS",
-   "url": "https://shopee.com.br/opaanlp/1635326015/55212774865?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAwvOi2NvkmKs6jZiHqQdlzSFz63uBfEtCzxQzoWrSbPnREaJOLptItWTmBm7wwhpYoBtw71mkUmYntfBtQOQeHl1QprtbgNrGc7psxBu95t49bDrQ0dFtnuJ9XE_ISz1b6Jbg-u6SjrTIURNk-y5un9qrLmdZG3wYdz56UK4tMu7BJk2NbfddCznqqrF3oYNCPJ-uOCmw&mmp_pid=an_18303930133&uls_trackid=5750alpm00je&utm_campaign=id_54qzvJhETJ3&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fuyb35iv9cx7",
-   "loja": "Shopee",
-   "id": "1794830068471"
-  },
-  {
    "nome": "Kit 8 Pincéis de Maquiagem",
    "preco": "R$14,93",
    "preco_antigo": "",
@@ -1169,8 +1158,16 @@
    "preco": "R$143,99",
    "link": "https://s.shopee.com.br/1BNnoRD4Y0",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794830068471",
+   "num": 78,
+   "nome": "Kit Pincéis de Maquiagem de Viagem com Espelho",
+   "preco": "R$49,86",
+   "link": "https://s.shopee.com.br/40i8kzZJdS",
+   "loja": "Shopee"
   }
  ],
- "num": 77,
- "ultimo": "2026-11-22 09"
+ "num": 78,
+ "ultimo": "2026-11-22 12"
 }
