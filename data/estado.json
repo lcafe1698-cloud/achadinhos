@@ -113,17 +113,6 @@
    "id": "1794310096886"
   },
   {
-   "nome": "Escorredor de Louça Inox 105cm com Prateleira",
-   "preco": "R$143,99",
-   "preco_antigo": "",
-   "desconto": "52%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820lv-mtexauxef01u11",
-   "link": "https://s.shopee.com.br/1BNnoRD4Y0",
-   "url": "https://shopee.com.br/opaanlp/1735852805/58216416776?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAyBbizj6HltdIgTLcmGJ3Qajh34dF139vukk47LCyUVlSNBnkgVnK-6z5kcaGV56Bqwf9ZbC3-2qcNzMcCK6JODN5Ze9ux7Izi5bvYyhaZtaWf8NYliBlplttViiHEBZLPZFuqOrh3qj49o5OW8dqQJtYH0yjlIzlmrQPU7DtA_KRGybxwsQHMM9PEQJPmC-tRmuHRl1w&mmp_pid=an_18303930133&uls_trackid=573enrm2000o&utm_campaign=id_2nW5rgxL1Bx&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ftwdtkuxz5u2",
-   "loja": "Shopee",
-   "id": "1794310100241"
-  },
-  {
    "nome": "Elástico Extensor Pull Reducer Multifunção",
    "preco": "R$23,90",
    "preco_antigo": "",
@@ -1172,8 +1161,16 @@
    "preco": "R$19,99",
    "link": "https://s.shopee.com.br/9V2yvWZUny",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794310100241",
+   "num": 77,
+   "nome": "Escorredor de Louça Inox 105cm com Prateleira",
+   "preco": "R$143,99",
+   "link": "https://s.shopee.com.br/1BNnoRD4Y0",
+   "loja": "Shopee"
   }
  ],
- "num": 76,
- "ultimo": "2026-11-21 21"
+ "num": 77,
+ "ultimo": "2026-11-22 09"
 }
