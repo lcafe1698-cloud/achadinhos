@@ -201,17 +201,6 @@
    "id": "1794483342355"
   },
   {
-   "nome": "Kit Chave Soquete Tipo T 21 Peças",
-   "preco": "R$19,99",
-   "preco_antigo": "",
-   "desconto": "50%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m8k1m4oxo3ch81",
-   "link": "https://s.shopee.com.br/9V2yvWZUny",
-   "url": "https://shopee.com.br/opaanlp/1038022049/21298102492?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAzkqafN4-sFoELvtI70rJBsPNpdpA9Ccv35nbKT1MD5r1_-59zIm9zkY99Kg6E29fzFdWj_5BiF-Zqva83AlpSWGYyZI1oPCxfhdhawtacLs5RPnbG2-iG0wwyav48UNizRR-qB00Wv2vBvojs91Kast8Vv6gOyllxmBbyd8arnhFviF6MNIabznxAkJcv2c25NO1gVPA&mmp_pid=an_18303930133&uls_trackid=573v8hug01c6&utm_campaign=id_9bRpY7Hrprt&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fu9cq3mi7uaw",
-   "loja": "Shopee",
-   "id": "1794483343527"
-  },
-  {
    "nome": "Kit 7 Chaves Fenda e Philips",
    "preco": "R$29,93",
    "preco_antigo": "",
@@ -1175,8 +1164,16 @@
    "preco": "R$42,99",
    "link": "https://s.shopee.com.br/2qW1nTKOJ0",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794483343527",
+   "num": 76,
+   "nome": "Kit Chave Soquete Tipo T 21 Peças",
+   "preco": "R$19,99",
+   "link": "https://s.shopee.com.br/9V2yvWZUny",
+   "loja": "Shopee"
   }
  ],
- "num": 75,
- "ultimo": "2026-11-21 18"
+ "num": 76,
+ "ultimo": "2026-11-21 21"
 }
