@@ -344,17 +344,6 @@
    "id": "1794922886846"
   },
   {
-   "nome": "Marca Texto Pincel Colorido",
-   "preco": "R$16,80",
-   "preco_antigo": "",
-   "desconto": "16%",
-   "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-8258o-mrmawh6ztnnqe7",
-   "link": "https://s.shopee.com.br/4B1ae98v7I",
-   "url": "https://shopee.com.br/opaanlp/1412842876/23793862596?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAxwItS9ozA6XXjwPGGRY_aHcY4BtytnsfyYjcUpi9LYsZ8WjgyMdbMQsMpPoh1vb6zUh-t_VUUPE_OAS037UnRWTQL5jj1bcZZOZ-LCCOPPkDTcMbkNyYsAQlFGKBHPld4RZ4g4Rnsd5AjI4710oc2rt_Nt5FMfdvWrALXmVoRANBeqktW7T_rXhF0qPOMiJg_9TXHHSw&mmp_pid=an_18303930133&uls_trackid=57595u7a04s2&utm_campaign=id_3DX6mXw7PsH&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fv5q3coa3szo",
-   "loja": "Shopee",
-   "id": "1794922891263"
-  },
-  {
    "nome": "Laptop Infantil Educativo",
    "preco": "R$37,99",
    "preco_antigo": "",
@@ -1258,8 +1247,16 @@
    "preco": "R$49,86",
    "link": "https://s.shopee.com.br/2qWG9RBY48",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794922891263",
+   "num": 85,
+   "nome": "Marca Texto Pincel Colorido",
+   "preco": "R$16,80",
+   "link": "https://s.shopee.com.br/4B1ae98v7I",
+   "loja": "Shopee"
   }
  ],
- "num": 84,
- "ultimo": "2026-11-23 15"
+ "num": 85,
+ "ultimo": "2026-11-23 18"
 }
