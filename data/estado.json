@@ -168,17 +168,6 @@
    "id": "1794483350001"
   },
   {
-   "nome": "Fone Bluetooth Gatinho com LED",
-   "preco": "R$34,90",
-   "preco_antigo": "",
-   "desconto": "42%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820m3-mq3owa4pflkycc",
-   "link": "https://s.shopee.com.br/7KyVwNIvbC",
-   "url": "https://shopee.com.br/opaanlp/1509843863/42269095493?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAw8o6_AvWRfWRLIokCoJt6AgEu-Z6BZhBs5KokTs3Rb6OSJN3CEIj0WkjSJWZ2pH3ABbUFUm7_aIA8ti_F_3OlERHnd0Or9kbFgVjpHaI2dzVYRpIlVMNknMTMnirho4oON7isDQ3jawTIb0GeeUx1qyyMj1AUAMplNGMVL9JnaIRWIaB9Muwd4E8l1hoSSIPYXcSEQxQ&mmp_pid=an_18303930133&uls_trackid=5747fkkk01jp&utm_campaign=id_5o3WNSF56U5&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fufb79mgn9ao",
-   "loja": "Shopee",
-   "id": "1794569553834"
-  },
-  {
    "nome": "Fone de Condução Óssea Esportivo H'Maston F921",
    "preco": "R$42,99",
    "preco_antigo": "",
@@ -1264,8 +1253,16 @@
    "preco": "R$16,80",
    "link": "https://s.shopee.com.br/7VHuXnhuRC",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794569553834",
+   "num": 83,
+   "nome": "Fone Bluetooth Gatinho com LED",
+   "preco": "R$34,90",
+   "link": "https://s.shopee.com.br/7KyVwNIvbC",
+   "loja": "Shopee"
   }
  ],
- "num": 82,
- "ultimo": "2026-11-23 09"
+ "num": 83,
+ "ultimo": "2026-11-23 12"
 }
