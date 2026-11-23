@@ -80,17 +80,6 @@
    "id": "1794225585580"
   },
   {
-   "nome": "Kit Pincéis de Maquiagem Profissional",
-   "preco": "R$35,64",
-   "preco_antigo": "",
-   "desconto": "50%",
-   "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-825a5-mqnjruon982622",
-   "link": "https://s.shopee.com.br/gRVcxfJO7",
-   "url": "https://shopee.com.br/opaanlp/1887997223/40032592756?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAyf8RLor5lDVldBjLcROIAxkGbh459UL-rySSWye-FUt6_0TWVag4NIcsWyniA5tjwlLfNpSSCycLSNsZDpnhX4RvGHgAyZ-UhlyxiqtghQCd5cQWqGTbbpbHl5DYmcbY_4l_zp73emTa3dmhb067qL-9QCFrcnv3_xn_HZycqRvjHmBHli7ZhC6bZiQsMEmrtZG7_kxw&mmp_pid=an_18303930133&uls_trackid=5736lvmm00c4&utm_campaign=id_7MphCPeMhpV&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ftqjcqs7tmq9",
-   "loja": "Shopee",
-   "id": "1794225602973"
-  },
-  {
    "nome": "Kit 5 Elásticos de Treino Mini Band + Thera Band",
    "preco": "R$37,97",
    "preco_antigo": "",
@@ -1160,8 +1149,16 @@
    "preco": "R$24,79",
    "link": "https://s.shopee.com.br/5VWqA8P8Mn",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794225602973",
+   "num": 81,
+   "nome": "Kit Pincéis de Maquiagem Profissional",
+   "preco": "R$35,64",
+   "link": "https://s.shopee.com.br/gRVcxfJO7",
+   "loja": "Shopee"
   }
  ],
- "num": 80,
- "ultimo": "2026-11-22 18"
+ "num": 81,
+ "ultimo": "2026-11-22 21"
 }
