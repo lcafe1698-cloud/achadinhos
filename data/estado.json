@@ -454,17 +454,6 @@
    "id": "1795088738203"
   },
   {
-   "nome": "Kit Pincéis de Maquiagem de Viagem com Espelho",
-   "preco": "R$49,86",
-   "preco_antigo": "",
-   "desconto": "64%",
-   "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-824i7-mpvyc5k1375s09",
-   "link": "https://s.shopee.com.br/2qWG9RBY48",
-   "url": "https://shopee.com.br/opaanlp/1635326015/55212774865?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAxRhPPxho2El1UNfOddKzBueTsmn9sdskqsA6LgFoSM1yAt8t1V9F4gJXYabABjwN9Ae0kiBd0swch-tVmvW-iXZ-KL-9CSIFkSz_gy8u_07yBn1bhQ8YQRBnQ2FyZSmqURFf1jMDaplAoj8gFYgkmUbnHkumOcY_KkRaWimxgf6cSw2Xrpa4ilMTXB-P5g6NJzNc5smw&mmp_pid=an_18303930133&uls_trackid=575p02kv01c4&utm_campaign=id_1CMrKV1FgQT&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fvh6mkfgvffn",
-   "loja": "Shopee",
-   "id": "1795088742849"
-  },
-  {
    "nome": "Jogo de Chaves de Precisão 31 Peças",
    "preco": "R$14,99",
    "preco_antigo": "",
@@ -1261,8 +1250,16 @@
    "preco": "R$34,90",
    "link": "https://s.shopee.com.br/7KyVwNIvbC",
    "loja": "Shopee"
+  },
+  {
+   "id": "1795088742849",
+   "num": 84,
+   "nome": "Kit Pincéis de Maquiagem de Viagem com Espelho",
+   "preco": "R$49,86",
+   "link": "https://s.shopee.com.br/2qWG9RBY48",
+   "loja": "Shopee"
   }
  ],
- "num": 83,
- "ultimo": "2026-11-23 12"
+ "num": 84,
+ "ultimo": "2026-11-23 15"
 }
