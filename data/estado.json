@@ -58,17 +58,6 @@
    "id": "1794160529478"
   },
   {
-   "nome": "Escorredor de Louça Inox 105cm",
-   "preco": "R$143,99",
-   "preco_antigo": "",
-   "desconto": "52%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820lv-mtexauxef01u11",
-   "link": "https://s.shopee.com.br/114M1WAnh9",
-   "url": "https://shopee.com.br/opaanlp/1735852805/58216416776?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAz_YAZchC5MEa777pfRrqc7M_SsHO9vrd55TCoJCh9sXRLRH49pDeoQhNIihrgX9L3XNKH-F3kbQZIbNTuJk9MKN9EbREJVtCmBdSRWj3HSah1mRQ2K_DBWe8sq2PEcdHHS_siV8aFry-r-kYSoHv73bQ6TeilEWVhxoCBl4jIu7VZUKmlDfV0bluIBt3ztDeXApH-0Mg&mmp_pid=an_18303930133&uls_trackid=5736ltvs00cc&utm_campaign=id_7GddVTsmVPB&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ftqjbc8igvz3",
-   "loja": "Shopee",
-   "id": "1794225585580"
-  },
-  {
    "nome": "Kit 5 Elásticos de Treino Mini Band + Thera Band",
    "preco": "R$37,97",
    "preco_antigo": "",
@@ -1359,8 +1348,16 @@
    "preco": "R$94,99",
    "link": "https://s.shopee.com.br/2VtPko4lWk",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794225585580",
+   "num": 88,
+   "nome": "Escorredor de Louça Inox 105cm",
+   "preco": "R$143,99",
+   "link": "https://s.shopee.com.br/114M1WAnh9",
+   "loja": "Shopee"
   }
  ],
- "num": 87,
- "ultimo": "2026-11-24 09"
+ "num": 88,
+ "ultimo": "2026-11-24 12"
 }
