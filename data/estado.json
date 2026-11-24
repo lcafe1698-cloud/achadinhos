@@ -69,17 +69,6 @@
    "id": "1794225607373"
   },
   {
-   "nome": "Fone Bluetooth Gatinho com LED",
-   "preco": "R$34,90",
-   "preco_antigo": "",
-   "desconto": "42%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820m3-mq3owa4pflkycc",
-   "link": "https://s.shopee.com.br/60T3ZGZxFd",
-   "url": "https://shopee.com.br/opaanlp/1509843863/42269095493?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAzd82gPakmbhrJYeIV3M73jor4l79IB7XYEpP_jozZYLL1tZ3Pj1vjy5sWVGKWlmEDI1ETPh4pcAWgGVZspPDQXxm-NiSIpYapc6y7YW3Vt9ks5g0IHrEiqEE_zeYt03E34F_MCWzutRs8nxN4zqSjS3CP2_3sJO51ebOFPwRe-RmfMFTLTx7qsxgD8BexNVgn6Ad_X9Q&mmp_pid=an_18303930133&uls_trackid=573enrb700f4&utm_campaign=id_AHqKiAd7fWL&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ftwdtbeyv383",
-   "loja": "Shopee",
-   "id": "1794310096886"
-  },
-  {
    "nome": "Elástico Extensor Pull Reducer Multifunção",
    "preco": "R$23,90",
    "preco_antigo": "",
@@ -1356,8 +1345,16 @@
    "preco": "R$143,99",
    "link": "https://s.shopee.com.br/114M1WAnh9",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794310096886",
+   "num": 89,
+   "nome": "Fone Bluetooth Gatinho com LED",
+   "preco": "R$34,90",
+   "link": "https://s.shopee.com.br/60T3ZGZxFd",
+   "loja": "Shopee"
   }
  ],
- "num": 88,
- "ultimo": "2026-11-24 12"
+ "num": 89,
+ "ultimo": "2026-11-24 15"
 }
