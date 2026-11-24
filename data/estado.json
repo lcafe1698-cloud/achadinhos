@@ -410,17 +410,6 @@
    "id": "1795088728713"
   },
   {
-   "nome": "Kit 12 Colmeias Organizadoras de Gaveta",
-   "preco": "R$94,99",
-   "preco_antigo": "",
-   "desconto": "52%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134201-820lo-mqxfzuzat1qd23",
-   "link": "https://s.shopee.com.br/2VtPko4lWk",
-   "url": "https://shopee.com.br/opaanlp/738897464/19761639478?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAxHxim2cg7ObSE0awnZzOKx0r7XJERKAJuGWScIVf2oR06N26m-y5TzbOEUO3IHbuzfuT27aXTXQoSgVSz_-eRgLcwz1J-Ss5D6ixgoTLWdH6YqDPyePE82J5X9yicaNwuo_vq3R6h5DQJXSXk1H8d-Z1MWIpmNhqkrIpkdGk4-ELs2-AIIoR6gLHoDLHRYVLDw8hU&mmp_pid=an_18303930133&uls_trackid=575p01n701c4&utm_campaign=id_4pT7Xm4NPhp&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fvh6ktimsnmm",
-   "loja": "Shopee",
-   "id": "1795088733487"
-  },
-  {
    "nome": "Kit 12 Pincéis de Maquiagem com Estojo",
    "preco": "R$49,90",
    "preco_antigo": "",
@@ -1362,8 +1351,16 @@
    "preco": "R$15,00",
    "link": "https://s.shopee.com.br/3LSCWpGvur",
    "loja": "Shopee"
+  },
+  {
+   "id": "1795088733487",
+   "num": 87,
+   "nome": "Kit 12 Colmeias Organizadoras de Gaveta",
+   "preco": "R$94,99",
+   "link": "https://s.shopee.com.br/2VtPko4lWk",
+   "loja": "Shopee"
   }
  ],
- "num": 86,
- "ultimo": "2026-11-23 21"
+ "num": 87,
+ "ultimo": "2026-11-24 09"
 }
