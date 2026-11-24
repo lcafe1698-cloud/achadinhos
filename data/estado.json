@@ -14,17 +14,6 @@
    "id": "1793991055535"
   },
   {
-   "nome": "Conjunto de Garfo e Colher de Natal em Aço Inox (2/4/6 peças)",
-   "preco": "R$15,00",
-   "preco_antigo": "",
-   "desconto": "46%",
-   "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-7rdyr-m0chyxh0u9voe1",
-   "link": "https://s.shopee.com.br/3LSCWpGvur",
-   "url": "https://shopee.com.br/opaanlp/192902886/27011830084?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAyU29whgFyirVSc9CLvcCgFQkd8neVIHXRAaUiuLNv07UkSb-RntjKasbn6yOGtys8jXt9Bw-qqFcU_Igpn5QDPqx-itktTtlFn3QJX6F23F_BfjLgTwRpZ7ZrO8x2iNZA1kLjE8OMBn9JOcQjrJgqXGBdfjPpdBBnY1KL3D1kZJSic4By_cB7DA2W7U2Lobquhv88&mmp_pid=an_18303930133&uls_trackid=572gj9uc00bq&utm_campaign=id_8IEZk0EDtO9&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ft9jgw66za7q",
-   "loja": "Shopee",
-   "id": "1793994035273"
-  },
-  {
    "nome": "Capa de Almofada Árvore de Natal Estilo Vintage em Linho",
    "preco": "R$25,00",
    "preco_antigo": "",
@@ -1255,8 +1244,16 @@
    "preco": "R$16,80",
    "link": "https://s.shopee.com.br/4B1ae98v7I",
    "loja": "Shopee"
+  },
+  {
+   "id": "1793994035273",
+   "num": 86,
+   "nome": "Conjunto de Garfo e Colher de Natal em Aço Inox (2/4/6 peças)",
+   "preco": "R$15,00",
+   "link": "https://s.shopee.com.br/3LSCWpGvur",
+   "loja": "Shopee"
   }
  ],
- "num": 85,
- "ultimo": "2026-11-23 18"
+ "num": 86,
+ "ultimo": "2026-11-23 21"
 }
