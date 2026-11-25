@@ -465,17 +465,6 @@
    "id": "1795434145735"
   },
   {
-   "nome": "Kit Pincel Hexágono para Base + Esponjas",
-   "preco": "R$16,88",
-   "preco_antigo": "",
-   "desconto": "44%",
-   "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-7rfhq-m96kttgz9fvmce",
-   "link": "https://s.shopee.com.br/8fU9TlCMhX",
-   "url": "https://shopee.com.br/opaanlp/418205294/22091752995?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAzPa-I9WSrT6ky1LhewYb_cYCCXr5t_tuiwuUq6De26hUqO4zFQjBlNqo4RmAFMz4cu5Db_pIP1Ty3q0wmTNxQzVh0jF94CHL5DAYOwLi7Us7UcraZ2OYH33443OpX6Dqz9mJkQYnaSEzrncRFSm0pXvav04pwrmOLgNHmIO10J5DTgTPF2aFJixydyQiyeNoV3YBc&mmp_pid=an_18303930133&uls_trackid=576pu5ro01jl&utm_campaign=id_4qqQclyhXcX&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fw71vfutu7nf",
-   "loja": "Shopee",
-   "id": "1795434150909"
-  },
-  {
    "nome": "Kit 50 Esponjas de Maquiagem RANCAI",
    "preco": "R$46,16",
    "preco_antigo": "",
@@ -1454,8 +1443,16 @@
    "preco": "R$14,95",
    "link": "https://s.shopee.com.br/2VtMeyvHHM",
    "loja": "Shopee"
+  },
+  {
+   "id": "1795434150909",
+   "num": 93,
+   "nome": "Kit Pincel Hexágono para Base + Esponjas",
+   "preco": "R$16,88",
+   "link": "https://s.shopee.com.br/8fU9TlCMhX",
+   "loja": "Shopee"
   }
  ],
- "num": 92,
- "ultimo": "2026-11-25 09"
+ "num": 93,
+ "ultimo": "2026-11-25 12"
 }
