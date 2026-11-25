@@ -520,17 +520,6 @@
    "id": "1795434166293"
   },
   {
-   "nome": "Fone Bluetooth Infantil Gatinho LED",
-   "preco": "R$34,90",
-   "preco_antigo": "",
-   "desconto": "42%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820m3-mq3owa4pflkycc",
-   "link": "https://s.shopee.com.br/8pnbGrIr8T",
-   "url": "https://shopee.com.br/opaanlp/1509843863/42269095493?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAzFdOjTmsk2l0EqUh2_gjFoCNgevoPOT5vyXqJ_x4Cxdz79YD-T2sxwVUo7HQBTArHPyeqsjDjG0GtQOYCbHOfG4SC-QVyxItcd2Y7SVZAqeAVwZ3e-7sDI2223gYKmebhldvBiy0CKfFSqz4Ws2aZ_Q7_PzKEW1pP_op8scZZHMKvTSW6X3J7ZH3ojHsEX2BeUZyFJ7A&mmp_pid=an_18303930133&uls_trackid=5772194600jl&utm_campaign=id_1I5180qoaQD&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fwcwaf1qz6bh",
-   "loja": "Shopee",
-   "id": "1795519053442"
-  },
-  {
    "nome": "Fone de Condução Óssea H'Maston F921",
    "preco": "R$42,99",
    "preco_antigo": "",
@@ -1350,8 +1339,16 @@
    "preco": "R$23,99",
    "link": "https://s.shopee.com.br/AAIWk4EQcg",
    "loja": "Shopee"
+  },
+  {
+   "id": "1795519053442",
+   "num": 91,
+   "nome": "Fone Bluetooth Infantil Gatinho LED",
+   "preco": "R$34,90",
+   "link": "https://s.shopee.com.br/8pnbGrIr8T",
+   "loja": "Shopee"
   }
  ],
- "num": 90,
- "ultimo": "2026-11-24 18"
+ "num": 91,
+ "ultimo": "2026-11-24 21"
 }
