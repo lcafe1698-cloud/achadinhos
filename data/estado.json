@@ -91,17 +91,6 @@
    "id": "1794400562997"
   },
   {
-   "nome": "Gloss Labial Max Love",
-   "preco": "R$14,99",
-   "preco_antigo": "",
-   "desconto": "",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820m8-mog95u8gj8xvbc",
-   "link": "https://s.shopee.com.br/40i0oVjyWq",
-   "url": "https://shopee.com.br/opaanlp/1777219625/58257316584?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAwm2cYeoVFXr69uXS5G-Mg4a31pmFWcXZkeDEkqypzshVXZJAzRunttTX5FRrKKnNPwEpVkbbsljFg_0Qn1lqy9sBxiZrcL8ZVeCwalkYP575Xb77h_-QiQaPgUhSZOpQ-ayfnxcqnXgT8Uh5dMOS4UNN7ic1ODVzrgZqz3D_RawzmXG4IdgpDakkrKqQ2TQgKfDpyKHA&mmp_pid=an_18303930133&uls_trackid=573nbu1400c2&utm_campaign=id_9sbrQevHbm5&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fu3nao54ktat",
-   "loja": "Shopee",
-   "id": "1794400563980"
-  },
-  {
    "nome": "Gloss Labial Rosa Brilhoso",
    "preco": "R$22,00",
    "preco_antigo": "",
@@ -1451,8 +1440,16 @@
    "preco": "R$16,88",
    "link": "https://s.shopee.com.br/8fU9TlCMhX",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794400563980",
+   "num": 94,
+   "nome": "Gloss Labial Max Love",
+   "preco": "R$14,99",
+   "link": "https://s.shopee.com.br/40i0oVjyWq",
+   "loja": "Shopee"
   }
  ],
- "num": 93,
- "ultimo": "2026-11-25 12"
+ "num": 94,
+ "ultimo": "2026-11-25 15"
 }
