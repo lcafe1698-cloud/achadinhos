@@ -683,17 +683,6 @@
    "url": "https://shopee.com.br/opaanlp/1420392453/23198072057?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAxK834vQB0klQdQaBjTP8WDhWv6e1rKP75fRBbuU0oZnnm93ZNZTKFxtU74hxrZA48eAE4x4opoZa-SM_713Uk83gA3pUXtVbeJxp4V5wtJwYIIQH5uMfMdRAQNxm5VPchPfy5o1yxgkRlAFvaTAQ-1piagqzXKknv32O197s8aiX5OyDrEg9AZCr4t_h-pC-eevzf0gw&mmp_pid=an_18303930133&uls_trackid=577aar8100l1&utm_campaign=id_8EJ9LulFZUH&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fwiwojedifno",
    "loja": "Shopee",
    "id": "1795606073717"
-  },
-  {
-   "nome": "Bolsa Feminina Pequena Tiracolo",
-   "preco": "R$69,99",
-   "preco_antigo": "",
-   "desconto": "90%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820lh-mswgis250h6vb6",
-   "link": "https://s.shopee.com.br/Lp4kLsrmi",
-   "url": "https://shopee.com.br/opaanlp/1198407784/21099546181?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAzHzPFQrvB6whgAQdSvnR2wQJ4sZGYOnHGyBTGy9nWW-kfOU0ZYo1Xm1ws0K32MqERkJqW-y7jeJLPMWgxsqpNZTEjb4W_cfllBoaWstYxIkHsDmFsJdqm4NkqRgSWxj7MMMHN9XB-i1L13uunw1gFnOIWfUKg-lerrEig9Ec-45KGnXusyrpzQgE2FcbYQ_tLY8-UWTA&mmp_pid=an_18303930133&uls_trackid=577aarm401s2&utm_campaign=id_2ppZzYeAJ2X&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fwiwowon9ryd",
-   "loja": "Shopee",
-   "id": "1795606078509"
   }
  ],
  "postados": [
@@ -1448,8 +1437,16 @@
    "preco": "R$14,99",
    "link": "https://s.shopee.com.br/40i0oVjyWq",
    "loja": "Shopee"
+  },
+  {
+   "id": "1795606078509",
+   "num": 95,
+   "nome": "Bolsa Feminina Pequena Tiracolo",
+   "preco": "R$69,99",
+   "link": "https://s.shopee.com.br/Lp4kLsrmi",
+   "loja": "Shopee"
   }
  ],
- "num": 94,
- "ultimo": "2026-11-25 15"
+ "num": 95,
+ "ultimo": "2026-11-25 18"
 }
