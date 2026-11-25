@@ -278,17 +278,6 @@
    "id": "1794922878419"
   },
   {
-   "nome": "Kit 3 Faixas Elásticas Hip Band",
-   "preco": "R$14,95",
-   "preco_antigo": "",
-   "desconto": "45%",
-   "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-825zr-mmg1hdm7py4l32",
-   "link": "https://s.shopee.com.br/2VtMeyvHHM",
-   "url": "https://shopee.com.br/opaanlp/1545872929/23194923642?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAzN_o3v0e-mSXDDgi25qJnHeuz1di9Ua-fGMebmdaRBuvkVP50V6uKOWMdN49fym4catrhFBHumDjZg_exIS6runDI0Xsm9btGyugH8Fc2c9fAYBopE4ImSYHyUe3_9Z94oboULoejXqu-ERFNQ0e0UpnAkn6Ma6MFpC7_1-wN5PVZuqODx2IzhGNC08U_tNH95DWj6-w&mmp_pid=an_18303930133&uls_trackid=57595td101c3&utm_campaign=id_5YVz0IVvF4r&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fv5q2otwxwuq",
-   "loja": "Shopee",
-   "id": "1794922882518"
-  },
-  {
    "nome": "Kit Marca Texto Pastel 5 Cores",
    "preco": "R$14,99",
    "preco_antigo": "",
@@ -1457,8 +1446,16 @@
    "preco": "R$34,90",
    "link": "https://s.shopee.com.br/8pnbGrIr8T",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794922882518",
+   "num": 92,
+   "nome": "Kit 3 Faixas Elásticas Hip Band",
+   "preco": "R$14,95",
+   "link": "https://s.shopee.com.br/2VtMeyvHHM",
+   "loja": "Shopee"
   }
  ],
- "num": 91,
- "ultimo": "2026-11-24 21"
+ "num": 92,
+ "ultimo": "2026-11-25 09"
 }
