@@ -146,17 +146,6 @@
    "id": "1794569576599"
   },
   {
-   "nome": "Disco Voador Lançador Interativo para Cães e Gatos",
-   "preco": "R$15,39",
-   "preco_antigo": "",
-   "desconto": "45%",
-   "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-22100-6nzg7ya0drivfa",
-   "link": "https://s.shopee.com.br/20wzae20vU",
-   "url": "https://shopee.com.br/opaanlp/541172670/23332251667?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAxuXnxbd2g67SjSs_OtrZJ7H45BmKLOLJHi8p2Bqqk4GJZIRoN66xLb5npeg3iQkSkq4XTiDmGcR8cljrpaqR911miibzhWHZtVBo5zaLVgqIOZ5KveDD2gx2wjMDW6eexaza7jXoW3sFxftB_Fi5VST6CwHvpcXseUp2160qeAy6p8OsI9BZZMPaDUOq7IRB64R-A&mmp_pid=an_18303930133&uls_trackid=5747fn8l01kf&utm_campaign=id_334bhtNLe8n&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fufb9emvbpqm",
-   "loja": "Shopee",
-   "id": "1794569580898"
-  },
-  {
    "nome": "Brinquedo de Pelúcia para Cães e Gatos",
    "preco": "R$26,59",
    "preco_antigo": "",
@@ -1543,8 +1532,16 @@
    "preco": "R$13,90",
    "link": "https://s.shopee.com.br/4LL0qJT6iQ",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794569580898",
+   "num": 100,
+   "nome": "Disco Voador Lançador Interativo para Cães e Gatos",
+   "preco": "R$15,39",
+   "link": "https://s.shopee.com.br/20wzae20vU",
+   "loja": "Shopee"
   }
  ],
- "num": 99,
- "ultimo": "2026-11-26 15"
+ "num": 100,
+ "ultimo": "2026-11-26 18"
 }
