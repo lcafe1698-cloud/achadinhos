@@ -223,17 +223,6 @@
    "id": "1794922869581"
   },
   {
-   "nome": "Porta Xícaras Suspenso para Armário",
-   "preco": "R$13,90",
-   "preco_antigo": "",
-   "desconto": "",
-   "imagem": "https://down-bs-br.img.susercontent.com/bc4ce304d1ed519a1e355e1f2b6836f1",
-   "link": "https://s.shopee.com.br/4LL0qJT6iQ",
-   "url": "https://shopee.com.br/opaanlp/413802090/13113510574?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAyeUVvHpTOt-Ti4X_FhAGqiNIAdFI6yeEZSlCo8_MBhTsGk4ksE3pIFimI1kgU-U1AtgOr5jbK_0j-GdvihdWJ-VaFkZveHD3dVEUSug9PHKfKOvrE3abMWob8nVNSiultZIicob-8iaez1JTTUi7mUZ4Ie-ftTy_JMHMrXzKb-sV6GEk4p2e1XDIwnTOxnZQExq10&mmp_pid=an_18303930133&uls_trackid=57595shb00l1&utm_campaign=id_9pTYasElIkz&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fv5q1ys4kanb",
-   "loja": "Shopee",
-   "id": "1794922874242"
-  },
-  {
    "nome": "Kit 5 Faixas Elásticas para Exercícios",
    "preco": "R$13,50",
    "preco_antigo": "",
@@ -1546,8 +1535,16 @@
    "preco": "R$14,93",
    "link": "https://s.shopee.com.br/906oiBTcJI",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794922874242",
+   "num": 99,
+   "nome": "Porta Xícaras Suspenso para Armário",
+   "preco": "R$13,90",
+   "link": "https://s.shopee.com.br/4LL0qJT6iQ",
+   "loja": "Shopee"
   }
  ],
- "num": 98,
- "ultimo": "2026-11-26 12"
+ "num": 99,
+ "ultimo": "2026-11-26 15"
 }
