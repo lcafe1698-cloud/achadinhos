@@ -36,17 +36,6 @@
    "id": "1793999235029"
   },
   {
-   "nome": "Kit 5 Faixas Elásticas para Exercícios",
-   "preco": "R$13,50",
-   "preco_antigo": "",
-   "desconto": "46%",
-   "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-7rdwv-mdl9nltcxi55da",
-   "link": "https://s.shopee.com.br/W84F9zayY",
-   "url": "https://shopee.com.br/opaanlp/1234992705/23093409456?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAxgPD8UtQ8gJsJceivP6dUjvHt84Lb_AAkAKEr7P8EaMtyKnjmOiKLjWdc9BAM_oB6VOpVmZG2vbMBqyvToax1OpYdEVUpTS_F49wJxoCM8pNEhHZUQsZAO9oQkT5Rl9XaGmI4GTcxfBfWFyNmCjt9OfTAsDa8lTQRYzkxZxfuMC8-wzvz90yVQSis_TSouGRoZJcMbYA&mmp_pid=an_18303930133&uls_trackid=5730fd4p00k8&utm_campaign=id_7qJcPdJjkXd&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=ftm2ig78v19q",
-   "loja": "Shopee",
-   "id": "1794160529478"
-  },
-  {
    "nome": "Kit 5 Elásticos de Treino Mini Band + Thera Band",
    "preco": "R$37,97",
    "preco_antigo": "",
@@ -1445,8 +1434,16 @@
    "preco": "R$69,99",
    "link": "https://s.shopee.com.br/Lp4kLsrmi",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794160529478",
+   "num": 96,
+   "nome": "Kit 5 Faixas Elásticas para Exercícios",
+   "preco": "R$13,50",
+   "link": "https://s.shopee.com.br/W84F9zayY",
+   "loja": "Shopee"
   }
  ],
- "num": 95,
- "ultimo": "2026-11-25 18"
+ "num": 96,
+ "ultimo": "2026-11-25 21"
 }
