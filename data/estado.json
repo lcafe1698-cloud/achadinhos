@@ -641,17 +641,6 @@
    "id": "1795606059929"
   },
   {
-   "nome": "Jogo de Chave Catraca 46 Peças com Maleta",
-   "preco": "R$28,99",
-   "preco_antigo": "",
-   "desconto": "67%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820l9-mqt86n8incape7",
-   "link": "https://s.shopee.com.br/90734G0HLb",
-   "url": "https://shopee.com.br/opaanlp/832036467/22892833180?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAwAWgwWIqLcqYgqLVwAbq37zQZNAi-wDv92fDXsai58XvrHmtlpvEluDCoiDQpANq4hLeE5zEwUJf4ISpljh4Pw8iX25R5jyzaEXNpoWHAydnx1hoYQ7aA77ygjqAqW7CSI396epCvKhhZGuTvcnghsYdQWX0_ZAOJfI-9e1Q6wJvB61j2jbhOHfBMZVz8buV-sTqk&mmp_pid=an_18303930133&uls_trackid=577aaqbg00c4&utm_campaign=id_35hV72xExWj&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fwiwntm6zi5v",
-   "loja": "Shopee",
-   "id": "1795606064592"
-  },
-  {
    "nome": "Jogo de Chaves de Precisão 115 Peças",
    "preco": "R$27,99",
    "preco_antigo": "",
@@ -1552,8 +1541,16 @@
    "preco": "R$13,50",
    "link": "https://s.shopee.com.br/W84F9zayY",
    "loja": "Shopee"
+  },
+  {
+   "id": "1795606064592",
+   "num": 97,
+   "nome": "Jogo de Chave Catraca 46 Peças com Maleta",
+   "preco": "R$28,99",
+   "link": "https://s.shopee.com.br/90734G0HLb",
+   "loja": "Shopee"
   }
  ],
- "num": 96,
- "ultimo": "2026-11-25 21"
+ "num": 97,
+ "ultimo": "2026-11-26 09"
 }
