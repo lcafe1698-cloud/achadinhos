@@ -201,17 +201,6 @@
    "id": "1794830066960"
   },
   {
-   "nome": "Kit 8 Pincéis de Maquiagem",
-   "preco": "R$14,93",
-   "preco_antigo": "",
-   "desconto": "25%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134201-820lp-mqyvd1215bt24b",
-   "link": "https://s.shopee.com.br/906oiBTcJI",
-   "url": "https://shopee.com.br/opaanlp/766973180/58258347935?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAxC9K96-s-ax9llNfxtJg8eOsmzVi2FGSOBwkO399t8L4R_-n_yFfSF_IgCDQwGyTOsTT6RWjoODhap_rGteUOlbGhBsNwpIbsbMkNrb__QxmDYaxwaXbreNBfph4iFgNWC_2ccol8HZQj5nqmEtu55Qqxf0tsd6jxlZZOaPrCfYcQNJVG6mhbJ0eDKvF0EUf3HXeM&mmp_pid=an_18303930133&uls_trackid=5750alud02c6&utm_campaign=id_2WM5qrWvqS1&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fuyb39mz7zxw",
-   "loja": "Shopee",
-   "id": "1794830069862"
-  },
-  {
    "nome": "Garrafa Squeeze Motivacional 2L",
    "preco": "R$26,90",
    "preco_antigo": "",
@@ -1549,8 +1538,16 @@
    "preco": "R$28,99",
    "link": "https://s.shopee.com.br/90734G0HLb",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794830069862",
+   "num": 98,
+   "nome": "Kit 8 Pincéis de Maquiagem",
+   "preco": "R$14,93",
+   "link": "https://s.shopee.com.br/906oiBTcJI",
+   "loja": "Shopee"
   }
  ],
- "num": 97,
- "ultimo": "2026-11-26 09"
+ "num": 98,
+ "ultimo": "2026-11-26 12"
 }
