@@ -432,17 +432,6 @@
    "id": "1795434166293"
   },
   {
-   "nome": "Fone de Condução Óssea H'Maston F921",
-   "preco": "R$42,99",
-   "preco_antigo": "",
-   "desconto": "64%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820md-msfchkqc38xw4f",
-   "link": "https://s.shopee.com.br/4qHSVVpgO9",
-   "url": "https://shopee.com.br/opaanlp/1847606927/58216872655?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAxlP1AtteMVHA45RswDcvzHDXQNerdQgJplOKGhVuaannyKms8xp-4kZeGawbz0VwXgafGZjdUtcWhGnldWN-yaQg5KvNsKCCa4PNXgndU7IuG-EGwFeTZuLvRUNs6sxmlVvwl8Nnf7ZRzC7tIuJgmgyGe73Q3tseBz6DyrFySJZU3w0KgL93MkXZMAN3pGXALSIxBN2Q&mmp_pid=an_18303930133&uls_trackid=577219ju00kf&utm_campaign=id_84Bi1TSYTgf&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fwcwatnys3ao",
-   "loja": "Shopee",
-   "id": "1795519058194"
-  },
-  {
    "nome": "Escorredor de Louça com Prateleira",
    "preco": "R$126,25",
    "preco_antigo": "",
@@ -1647,8 +1636,16 @@
    "preco": "R$13,50",
    "link": "https://s.shopee.com.br/50ar72CeV1",
    "loja": "Shopee"
+  },
+  {
+   "id": "1795519058194",
+   "num": 102,
+   "nome": "Fone de Condução Óssea H'Maston F921",
+   "preco": "R$42,99",
+   "link": "https://s.shopee.com.br/4qHSVVpgO9",
+   "loja": "Shopee"
   }
  ],
- "num": 101,
- "ultimo": "2026-11-26 21"
+ "num": 102,
+ "ultimo": "2026-11-27 09"
 }
