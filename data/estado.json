@@ -69,17 +69,6 @@
    "id": "1794400562997"
   },
   {
-   "nome": "Gloss Labial Rosa Brilhoso",
-   "preco": "R$22,00",
-   "preco_antigo": "",
-   "desconto": "",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-81zu8-mkyqc9cllurnaf",
-   "link": "https://s.shopee.com.br/6AmVOUg7wV",
-   "url": "https://shopee.com.br/opaanlp/287060545/23993087481?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAx3c6AotaJpg6O31ZdRVAIKT1EeINMJFgQCazvIF1HP7L4vINAYSR1wAIBshaVsqBG7U67JI8xtAUMITu6A632zidYSjeeKErpJCRl-2pRkDzZCa06AWVda0CPh-JAMMkd3eWIVHIQDeQWromt1qcrmFPRx7At6Y-JNBNuIay6p5LA8_w2g5o2A_Zg9MSMaC_i8wF4&mmp_pid=an_18303930133&uls_trackid=573nbu4c00l1&utm_campaign=id_7kSFXDQYmS9&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fu3naqz8ghmh",
-   "loja": "Shopee",
-   "id": "1794400565027"
-  },
-  {
    "nome": "Prateleira Triangular Adesiva para Banheiro",
    "preco": "R$18,00",
    "preco_antigo": "",
@@ -1638,8 +1627,16 @@
    "preco": "R$33,99",
    "link": "https://s.shopee.com.br/7AfNHz2kpI",
    "loja": "Shopee"
+  },
+  {
+   "id": "1794400565027",
+   "num": 105,
+   "nome": "Gloss Labial Rosa Brilhoso",
+   "preco": "R$22,00",
+   "link": "https://s.shopee.com.br/6AmVOUg7wV",
+   "loja": "Shopee"
   }
  ],
- "num": 104,
- "ultimo": "2026-11-27 15"
+ "num": 105,
+ "ultimo": "2026-11-27 18"
 }
