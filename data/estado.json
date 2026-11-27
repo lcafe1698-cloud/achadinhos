@@ -421,17 +421,6 @@
    "id": "1795434156060"
   },
   {
-   "nome": "Kit 5 Faixas Elásticas para Exercícios",
-   "preco": "R$13,50",
-   "preco_antigo": "",
-   "desconto": "46%",
-   "imagem": "https://down-bs-br.img.susercontent.com/sg-11134201-7rdwv-mdl9nltcxi55da",
-   "link": "https://s.shopee.com.br/50ar72CeV1",
-   "url": "https://shopee.com.br/opaanlp/1234992705/23093409456?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAz89a8TlylxG_fRtwtsu-XSoHdvvN9x41om8vr2kyKsAMlUFifVjO2u-x7sHYZDOw0KqAkBjfTe3ALlEVbkAUnFyYPfViMf3RSg9ofoWSL57jLI1n5mb1QXeG5Jek_Fny1psRWhWbUQ7_xBorwfAeJCxD98hwywSca8HPUJ-DyXJIvSJd2qyj4KUe0VGOMjvPMjy9m-7g&mmp_pid=an_18303930133&uls_trackid=576pu6rv00bu&utm_campaign=id_1wXaLJole0v&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fw71w9u7vjbu",
-   "loja": "Shopee",
-   "id": "1795434161112"
-  },
-  {
    "nome": "Kit 3 Faixas Elásticas Hip Bands",
    "preco": "R$14,95",
    "preco_antigo": "",
@@ -1540,8 +1529,16 @@
    "preco": "R$15,39",
    "link": "https://s.shopee.com.br/20wzae20vU",
    "loja": "Shopee"
+  },
+  {
+   "id": "1795434161112",
+   "num": 101,
+   "nome": "Kit 5 Faixas Elásticas para Exercícios",
+   "preco": "R$13,50",
+   "link": "https://s.shopee.com.br/50ar72CeV1",
+   "loja": "Shopee"
   }
  ],
- "num": 100,
- "ultimo": "2026-11-26 18"
+ "num": 101,
+ "ultimo": "2026-11-26 21"
 }
