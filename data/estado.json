@@ -476,17 +476,6 @@
    "id": "1795519082182"
   },
   {
-   "nome": "Kit 100 Refis de Caneta Gel Apagável 0,5mm",
-   "preco": "R$33,99",
-   "preco_antigo": "",
-   "desconto": "69%",
-   "imagem": "https://down-bs-br.img.susercontent.com/cn-11134207-7r98o-ltlxs5ev1qctb3",
-   "link": "https://s.shopee.com.br/7AfNHz2kpI",
-   "url": "https://shopee.com.br/opaanlp/516528572/24722081747?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAznaDBDFPRAUe04Q5ftGqqAYijbm5QftZFmZDt1VImbSx13NTk79AgKT9AdLI6BDQz-ft87yuVhuAs4khPRJEFs8-We9YFuEeCRLwYB4ZAyoYkFLcI_DO099qcRFJ4OqQnxn7EH8QyPI5Oadauxin96uJyh5JSTb6Au0bV5Rlr4PiZc9NaKcFMAv2lVasw82h9rewM&mmp_pid=an_18303930133&uls_trackid=57721cdj000p&utm_campaign=id_1fe57vY35ej&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fwcwd4nos4f9",
-   "loja": "Shopee",
-   "id": "1795519087027"
-  },
-  {
    "nome": "Fita LED a Pilha 2m 120 LEDs",
    "preco": "R$18,00",
    "preco_antigo": "",
@@ -1641,8 +1630,16 @@
    "preco": "R$41,99",
    "link": "https://s.shopee.com.br/LoawZy8Qb",
    "loja": "Shopee"
+  },
+  {
+   "id": "1795519087027",
+   "num": 104,
+   "nome": "Kit 100 Refis de Caneta Gel Apagável 0,5mm",
+   "preco": "R$33,99",
+   "link": "https://s.shopee.com.br/7AfNHz2kpI",
+   "loja": "Shopee"
   }
  ],
- "num": 103,
- "ultimo": "2026-11-27 12"
+ "num": 104,
+ "ultimo": "2026-11-27 15"
 }
