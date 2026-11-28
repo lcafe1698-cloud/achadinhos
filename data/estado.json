@@ -344,17 +344,6 @@
    "id": "1795434125008"
   },
   {
-   "nome": "Colmeia Organizadora de Gavetas",
-   "preco": "R$10,90",
-   "preco_antigo": "",
-   "desconto": "73%",
-   "imagem": "https://down-bs-br.img.susercontent.com/br-11134207-820lx-mpgo9t8xnym9c6",
-   "link": "https://s.shopee.com.br/4VeaW3c6Lb",
-   "url": "https://shopee.com.br/opaanlp/379684671/23395023935?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAwpATFUfGPbmprJiPvNc9ZfRhA1blKFqzzbto2NhOV_S_0ZhwwxtwwrB5tpBMVdNpJXEz9nSdc27v0uxAf3h3NZb4g3a--_AJMTi3RPdRnGuBu0tOQaoWfhG9azOIIGreI0yp7hqlLC3r66AEXLBLFqGmEUHaNG6KZ_jbquDuJW9WLDKvf7Ikz1Ca5TvjoT5Un2Hac&mmp_pid=an_18303930133&uls_trackid=576pu3qu00bu&utm_campaign=id_8K4b6qZkjxZ&utm_content=----&utm_medium=affiliates&utm_source=an_18303930133&utm_term=fw71tsjc71v7",
-   "loja": "Shopee",
-   "id": "1795434130216"
-  },
-  {
    "nome": "Kit 18 Organizadores de Gaveta Dobráveis",
    "preco": "R$31,35",
    "preco_antigo": "",
@@ -1635,8 +1624,16 @@
    "preco": "R$22,00",
    "link": "https://s.shopee.com.br/6AmVOUg7wV",
    "loja": "Shopee"
+  },
+  {
+   "id": "1795434130216",
+   "num": 106,
+   "nome": "Colmeia Organizadora de Gavetas",
+   "preco": "R$10,90",
+   "link": "https://s.shopee.com.br/4VeaW3c6Lb",
+   "loja": "Shopee"
   }
  ],
- "num": 105,
- "ultimo": "2026-11-27 18"
+ "num": 106,
+ "ultimo": "2026-11-27 21"
 }
